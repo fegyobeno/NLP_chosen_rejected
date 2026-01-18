@@ -1,1 +1,1 @@
-This is a private repository containing the scripts and files needed to complete the NLP project
+This is a repository containing the scripts and files needed to complete the NLP project
