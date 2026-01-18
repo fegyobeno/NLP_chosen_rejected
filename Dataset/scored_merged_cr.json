@@ -1,0 +1,1198 @@
+{
+    "1454": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Nyelv és kultúra. Az SH emberek nyelvcsontja (mely a nyelvet támasztja) hasonló volt a modern emberéhez, és a középfülcsontjaik képesek voltak finoman megkülönböztetni a normális emberi beszéd tartományába eső frekvenciákat. A fogakon talált karcolások alapján úgy tűnik, hogy túlnyomórészt jobbkezesek voltak, és a kézdominancia összefügg az agyi funkciók lateralizációjával, amely a modern embereknél jellemzően a nyelvi feldolgozással kapcsolatos. Emiatt feltételezik, hogy ez a populáció valamilyen korai nyelvi formát használt. Mindazonáltal ezek a tulajdonságok nem szolgálnak abszolút bizonyítékkal a nyelv és az emberi beszéd létezésére. Az ilyen anatómiai érvek ellenére a nyelv ilyen korai jelenlétét elsősorban Philip Lieberman kognitív tudós kérdőjelezte meg. A felső paleolitikum modern emberei közismertek olyan vésett díszítéseikről, amelyek szimbolikus jelentőséggel bírhattak. 2018-ig azonban mindössze 27 középső és alsó paleolitikumból származó tárgyat azonosítottak szimbolikus vésetekkel, amelyek közül néhányról kiderült, hogy természetes vagy nem szimbolikus jelenségek (például fosszilizáció vagy ásatás során keletkezett nyomok) okozták azokat. Az alsó paleolitikumból származó példák a következők: Egy 400–350 ezer éves csont Bilzingslebenből (Németország). Három 380 ezer éves kavics Terra Amata lelőhelyéről (Franciaország). Egy 250 ezer éves kavics Markkleebergből (Németország). 18 körülbelül 200 ezer éves kavics Lazaret-ból (Terra Amata közelében). Egy 200 ezer éves kő a monacói Grotte de l'Observatoire-ból. Egy 200–130 ezer éves kavics Baume Bonne-ból (Franciaország). A 19. század közepén Jacques Boucher de Crèvecœur de Perthes francia régész St. Acheul lelőhelyén (Amiens, Franciaország) végzett ásatásokat, ahol a kézi balták mellett perforált szivacsfosszíliákat (*Porosphaera globularis*) talált, amelyeket dekoratív gyöngyökként értelmezett. Felfedezéseit azonban teljesen figyelmen kívül hagyták. 1894-ben Worthington George Smith angol régész 200 hasonló fosszíliát fedezett fel Bedfordshire-ben (Anglia), és ő is gyöngyökként értelmezte ezeket, bár nem utalt Boucher de Perthes munkájára, valószínűleg mert nem ismerte azt. 2005-ben Robert Bednarik újravizsgálta az anyagot, és arra jutott, hogy a fosszíliák szándékosan válogatottak lehettek, mivel a természetesen változatos alakú *P. globularis* példányai itt szinte mind szferikusak voltak, és átmérőjük 10–18 mm között mozgott. A fosszíliákat valószínűleg egy parazita lyukasztotta át részben, majd egy zárt véget ütögettek, hogy a lyukat teljesen megnyissák. Az is látható, hogy a fosszíliákon kopásnyomok vannak, amelyek arra utalnak, hogy gyöngysorként viselték őket. 2009-ben azonban Solange Rigaud és Francisco d'Errico megjegyezte, hogy a módosított részek világosabbak, mint az érintetlen részek, ami azt sugallja, hogy a változások jóval később, például az ásatások során keletkezhettek. Ezenkívül megkérdőjelezték, hogy ezek a fosszíliák valóban kapcsolhatók-e az Acheuli-artefaktumokhoz, és természetes geológiai folyamatokkal vagy 19. századi gyűjtőkkel magyarázták a válogatott formákat. A korai modern emberek és a késői neandervölgyiek (különösen 60 ezer évvel ezelőtt) széles körben használták a vörös okkert szimbolikus célokra, mivel vérszerű színt ad. Azonban az okkernek lehettek funkcionális, például gyógyászati alkalmazásai is. Más emberfajok esetében az okkerhasználat korai példái között szerepel az Olduvai-szoros (Tanzánia), ahol két vörös okkerrögöt találtak; Ambrona, ahol egy okkerrögöt egy adott formára faragtak; és Terra Amata, ahol 75 okkerrögöt hevítettek, hogy különböző színeket érjenek el, a sárgától a vörösbarnáig. Ezek a színek előnyben részesítésének és kategorizálásának korai példái lehetnek, bár ezek a gyakorlatok akkoriban még nem lehettek általánosak. 2006-ban Eudald Carbonell és Marina Mosquera azt javasolták, hogy a Sima de los Huesos (SH) homininok nem egy katasztrófa, például barlangomlás áldozatai voltak, hanem szándékosan temették el őket. Ezt arra alapozzák, hogy hiányoznak a kisgyermekek és csecsemők maradványai, amelyek egy teljes családi egységnél várhatóak lennének. Az SH embereket feltűnően egyetlen kőeszközzel, egy gondosan megmunkált, magas minőségű kvarcitból készült kézi baltával hozták összefüggésbe, amelyet szimbolikusan helyezhettek a testekkel együtt, mint temetkezési melléklet. A szimbolikus temetkezés bizonyítékai csak 300 ezer évvel később jelennek meg újra. Kérdés: Mi bizonyítja, hogy a középső és alsó paleolitikumból származó emberek már szimbolikus viselkedést gyakoroltak?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "Különböző tárgyakon talált szimbolikus vésetek (mint a Bilzingslebenből származó 400-350 ezer éves csont vagy a Terra Amata lelőhelyről származó kavicsok), a szándékosan válogatott és módosított szivacsfosszíliák, amelyeket valószínűleg gyöngysorként viseltek, valamint a vörös okker szimbolikus használata bizonyítják a korai emberi szimbolikus viselkedést. Ezenkívül a Sima de los Huesos-i híminek szándékos temetkezési szokásai is erre utalnak."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Az alsó és középső paleolitikumból származó emberek nem gyakoroltak szimbolikus viselkedést, mivel a modern emberi kultúra csak a felső paleolitikum jelent meg. A leletek, amelyeket szimbolikusnak tartanak, valójában csak természetes geológiai folyamatok eredményei vagy 19. századi gyűjtők hamisítványai."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "951": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Skandináv toalett\nMár a 20. század második felében is a skandináv államokban olyan toaletteket kezdtek használni, amelyeknél szétválasztásra kerül vizelet és a fekália. Kezdetben persze nem a környezettudatosság miatt, hanem a hagyományos árnyékszék használatának kényelmessé tétele miatt alkalmazták ezt, amikor a toalett bekerült a lakóházakba és szerették volna az ürítések gyakoriságát csökkenteni. A szétválasztás képezi ezeknek a toaletteknek a legjelentősebb műszaki megoldását, és határozza meg működési elvét. Az ürülék 90 %-át kitevő vizeletet külön tartályba gyűjti, míg a fekália helyben történő kiszárításával csökkenti annak nagyságát. A szárítás elektromos ellenállással, légáramlással, vagy akár napenergiával történik, esetleg külön egységbe vezetik el, pl. a pincébe. A kellemetlen szagok kiküszöbölésére különböző szellőző berendezéseket használnak, pl. elektromos ventilátorokat építenek be. Az árnyékszékekhez hasonlóan a kiszáradt fekáliát a földbe juttatják, míg a felhígított vizeletet a növények tövébe locsolják ... .Középkor\nNyugat-Európa\nA városi élet hanyatlása jellemzi a kort. Az emberek faluközösségekbe szerveződtek és ott önellátó gazdálkodást folytattak (bérbe vett földek közös művelése). Az első középkori illemhely 820-ban készült, Sankt Gallenben fedezték fel, Gozbert apát (816–836) csendes kamrácskát biztosított szerzetesei részére. A 13. században a széklet a városon belül létrehozott réseken hullt alá. A kezdetleges illemhely fa ülőkével volt ellátva, a lepotyogó széklet azonban ráragadt a várfalakra és addig gyűlt a fal tövében, amíg el nem szállították onnan. A nemesség, az uralkodó osztály sokáig nem is tudott mit kezdeni az akkori WC-használattal, jó ideig a bilihez ragaszkodtak, amelyet sokszor még az ebédlőkbe is magukkal vittek, ahol kis szekrényekbe rejtették.\nIsmert volt, hogy XIV. Lajos bár csodás palotát emeltetett Versailles-ban, a Versailles-i kastély kicsit sem volt higiénikus hely. Maga a király sem fordított nagy figyelmet a tisztálkodásra, ennek megfelelően a kastélyban előforduló akár több ezer ember szükségleteit sem tartották különösebb figyelemre: az elégtelen számú latrina miatt mindenki ott végezte szükségét, ahol tudta, minekutána a palota különféle eldugottabb helyein, zeg-zugokban trágyahalmokkal lehetett találkozni. Mindennek eredménye az lett, hogy a király és kastélya is kellemetlen szagokat árasztott, 1734-ben pedig még egy egész emelet is leszakadt, mert a fölötte lévő helység, ahol addig a fekáliát halmozták edényekben fel nem bírta tovább el a terhelést. Maga Lajos űrítkezését eközben az 1698-ban létrehozott Üzleti Széktartó Hivatal(!) felügyelte, ami Lajos és a királyi család többi tagja számára biztosította, hogy a két hordozható árnyékszék szükség esetén rendelkezésükre álljon, amin ülve is fogadott Lajos időnként vendégeket. Kérdés: Miben rejlett a legnagyobb különbség a középkori európai és a modern skandináv illemhelyek működési elvében?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A legnagyobb különbség a szétválasztás elvében rejlett. A középkori európai illemhelyekben a székletet és vizeletet együtt kezelték, gyakran a városon kívül hagyományos árnyékszék formájában, vagy a városon belül a falakon keresztül juttatták ki. A modern skandináv megoldások viszont szétválasztják a vizeletet és a fekáliát, külön tartályokba gyűjtve őket, a fekáliát pedig helyben szárítva csökkentve annak térfogatát."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A középkori és a modern skandináv illemhelyek között alapvető különbség nem volt, mivel mindkét esetben a cél ugyanaz volt: a széklet és vizelet összegyűjtése és eltávolítása. A középkori Európában a királyi udvarokban még inkább igyekeztek higiénikus megoldásokat találni, mint a skandinávok, akik csak a 20. században kezdték el fejleszteni a saját rendszereiket."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1495": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A harcrend meghatározása a magyar hadtudományban\nA korszerű magyar meghatározás szerint a harcrend a harc megvívásához rendelkezésre álló erőknek és eszközöknek mélységben és szélességben tagolt csoportosítása. Biztosítania kell a terep adottságainak kihasználását, a manőverezést a harc folyamán, a vezetés és az együttműködés fenntartását. A csapatok harcrendje általában magában foglalja az első és második lépcsőt, a tartalékot, a légi mozgású harccsoportot, a tüzérség és más erők csoportosítását ... .Római tengeri hadviselés\nA punok ellen viselt háborúk késztették Rómát először hajóhad kiállítására, bár hadihajóik voltak már előbb is. Eleinte a tengeri ütközetet is a szárazföldi hadviselés mintájára, személyes harccal törekedtek eldönteni; a csata során kapócsáklyák (corvi, harpagones) segítségével az ellenséges hajót a támadó mellé húzták és onnan támadták. Ekkor még nem alakítottak ki csatarendet a hajóknak.\nAz Ecnomus-foki csatában a punok egyenes vonalú csatarendjével szemben a római hajóhad háromszöget alakított ki, melynek egyik szöge ék alakban az ellenséges vonal felé irányult, a háromszög alapja pedig kettős vonalból áll.\nA későbbi tengeri hadviselésben a rómaiak rátértek az egyenes vonalú csatarendre, amelyet egyszerűen kettősre (acies duplex), ritkábban egyesre (acies simplex) formáltak. Hogy a csatarendnek nagyobb mozgékonyságot adjanak, a két szárnyat és a közepet időnként elkülönítik. Bekerítés céljából előfordult még a hold alakú csatarend (acies lunata v. falcata) is. Kérdés: Milyen különleges csatarendet alkalmaztak a rómaiak az Ecnomus-foki csatában, és hogyan nézett ki ez a formáció?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A rómaiak háromszöget alakítottak ki, melynek egyik szöge ék alakban az ellenséges vonal felé irányult, a háromszög alapja pedig kettős vonalból állt."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A rómaiak egy négyzet alakú formációt hoztak létre, amelynek minden oldala egyenlő hosszúságú volt, hogy teljesen bekerítsék a pun flottát, de ez a taktika nem vált be, mert lassú volt és nehezen manőverezhető."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1438": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: \"A sarkkör alatti terület indiánjai\nÉszaknyugati parti indiánok: bellakúla, cimsián, csinúk, haidák, kvakiutl, nadiné, nútka, penúsön, szelis, tlingit indiánok\nFennsíki indiánok\nNagy-medencei indiánok\nKalifornia indiánjai\nDélnyugati indiánok: atapaszka, apacs, havaszupáj, hohokam, juma, magíjan, navahó, patijan, pueblo (keresz, hopi, zunyi stb.) indiánok\nSíksági indiánok: pauni (Pawnee),  ... \nÉszakkeleti vagy erdővidéki indiánok\nAlgonkin nyelvcsalád: abnaki (Abenaki), algonkin (Algonquin), arapahó (Arapaho), csipéva vagy odzsibvé vagy anisinábé (Chippewa, Ojibwa, Anishinaabe), delaver (Delaware, Lenape), ecsemin (Etchemin), feketeláb (Blackfoot), illinivek (Illinois), kikapu (Kickapoo), krí (Cree), májami (Miami), messzecsuszett (Massachusett), mikmek (Míkmaq), minámini (Menominee), mohikán (Mahican), mohegan, narraganszett (Narragansett), otava (Ottawa), píkot (Pequot), póheten (Powhatan), potavatami (Potawatomi), sájen (Cheyenne), sauni vagy sóni (Shawnee), szók-meszkvaki vagy szók-róka (Sauk-Fox), vampanoag (Wampanoag) indiánok\nIrokéz nyelvcsalád: cseroki (Cherokee), huron (Huron, Wyandot), irokéz (Iroquois: kajuga, móhauk, onandága, onejda, szeneka, tuszkaróra) indiánok\nSziú nyelvcsalád: sziú (Sioux), vinebégó (Winnebago) indiánok\nA délkeleti indiánok\nMaszkagí nyelvcsalád: csaktó (Chocktaw), csikaszó (Chickasaw), krík vagy maszkagí (Creek, Muskogee), szeminol (Seminole) indiánok\nkadó (Caddo), nacsez (Natchez) indiánok ... Észak-Amerika\nUSA és Kanada:\" Kérdés: Hogyan csoportosították az észak-amerikai indián törzseket a forrás szerint?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A forrás szerint az észak-amerikai indián törzseket két fő szempont szerint csoportosították: földrajzi elhelyezkedés és nyelvcsalád szerint. Földrajzilag megkülönböztették például a sarkkör alatti terület, északnyugati parti, fennsíki, nagy-medencei, kaliforniai, délnyugati, síksági és északkeleti/erdővidéki törzseket. Az északkeleti/erdővidéki törzseket továbbá nyelvcsaládok szerint is osztályozták: Algonkin, Irokéz és Sziú nyelvcsaládra, míg a délkeleti törzseknél Maszkagí nyelvcsaládot említenek."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A forrás szerint az észak-amerikai indián törzseket kizárólag nyelvcsaládok szerint osztályozták, és nem vették figyelembe földrajzi elhelyezkedésüket. Az Algonkin, Irokéz, Sziú és Maszkagí nyelvcsaládok mellett még számos más nyelvcsaládot is megkülönböztettek, amelyek között nincsenek hierarchikus kapcsolatok és földrajzi összefüggések sem."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 1.0
+            }
+        ]
+    },
+    "357": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Története Elődje a Tanácsköztársaság bukását megelőzően 1919. június 6-án elrendelt és rá három nappal felállított Nemzeti Hadsereg, melyet a Forradalmi Kormányzótanács augusztus 1-jei lemondása után megszűnt Vörös Hadsereg mellett, helyett fokozatosan szerveztek át az ország egyedüli haderejévé. A Nemzetgyűlés 1920. március 1-jén Horthy Miklóst választotta kormányzóvá. Felhatalmazták a kormányzót, hogy közvetlenül fenyegető veszély esetén a nemzetgyűlés utólagos hozzájárulása mellett elrendelheti a hadseregnek az ország határán kívüli alkalmazását. Megkezdődtek a munkálatok a Nemzeti Hadseregből kialakuló Magyar Királyi Honvédség szervezeti ügykörének tisztázására, feladati megfogalmazására. Április 1-jén a fővezérség megszűnt, a hadsereg vezetését a Honvéd Vezérkar vette át. A trianoni békeszerződést követő diplomáciai huzavonákkal és a lefegyverzési program halogatása eredményeként 1922. január 4-től felállításra került az ország védelmére hivatott, önkéntesekből álló Magyar Királyi Honvédség, melyről az 1921. évi XLIX. törvénycikk rendelkezett. Tisztképző intézménye a Ludovika Akadémia lett. A békeszerződés katonai rendelkezései alapvetően biztosították a kisantant államok teljes katonai fölényét. Csak olyan hadsereg fenntartását engedélyezték Magyarországnak, mely nemcsak támadó hadműveletekre alkalmatlan, de az ország minimális védelmét sem volt képes ellátni. A békeokmány megszüntette az általános hadkötelezettséget, és csak önkéntes belépés és hadkiegészítés alapján álló, 35 ezer főt – ebből 1750 tiszt – meg nem haladó létszámú hadsereget engedélyezett. Ez a hadsereg csak a belső rend fenntartására és határrendőri szolgálatra volt hivatott. A szerződés megtiltotta minden, a háború előkészítésére és vezetésére hivatott szerv (vezérkar) létrehozását és fenntartását, ezzel kapcsolatos intézkedések megtételét. A szerződésben foglaltak betartását a Szövetséges Katonai Ellenőrző Bizottság ellenőrizte. A gazdasági helyzet sem tette lehetővé a hadsereg fejlesztését. 1927. december 23-án viszont határozat született a hadsereg három lépcsős fejlesztéséről. Az 1929–33-as nagy gazdasági világválság a fejlesztések megtorpanását okozta ... .1. Szolnok (később Kolozsvár): a debreceni VI., a kassai VIII. és a kolozsvári IX. hadtestből, 2. Budapest: a budapesti I., a székesfehérvári II. és a miskolci VII. hadtestből, 3. Pécs: a szombathelyi III., a pécsi IV. és a szegedi V. hadtestből. Az egyes hadseregek hadrendjét lásd a hadseregek szócikkeiben: 1. magyar hadsereg; Magyar 2. hadsereg; 3. magyar hadsereg. A megalakult három hadsereg egyike sem került eredeti szervezetében bevetésre. A megalakult hadtestekben a rövid idő alatt nem sikerült jelentős mennyiségi fejlesztést végrehajtani, ezért megmaradt a két gyalogezredes kialakítás. Ezt a formációt 1942. február 12-től kis átalakítással könnyű hadosztálynak (rövidítve: k. ho.) keresztelték. Az állományukba olyan ezredközvetlen alosztályok is bekerültek, amelyek eddig a gyalogdandárok hadrendjében nem szerepeltek, nevezetesen: egy-egy kerékpáros- és huszárszakasz, illetve egy kísérő könnyűágyús üteg. A vezérkar, illetve a Honvédelmi Minisztérium közvetlen alárendeltségébe tartoztak ekkor még a következő szervezeti egységek: Kérdés: Mi volt a Magyar Királyi Honvédség létszámra vonatkozó korlátja a trianoni békeszerződés szerint?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A trianoni békeszerződés értelmében a Magyar Királyi Honvédség létszámát 35 ezer főben, ebből 1750 tisztben maximálták, és csak önkéntes belépés és hadkiegészítés alapján álló hadsereget engedélyezték."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A trianoni békeszerződés értelmében a Magyar Királyi Honvédség létszámát 100 ezer főben maximálták, és általános hadkötelezettséget vezettek be."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "86": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Dél-Bácska 2002-ben Bácska szerbiai részén 1.022.524 személy élt, ennek 54,74% szerb, 21,70% magyar, 24,66%-a pedig szlovák, bunyevác, sokác, cigány és német nemzetiségűnek vallotta magát ... .A Bácska elnevezés az egyik teória szerint szláv eredetű, Bács település nevéből származik. A másik elképzelés szerint, a táj névadója Bács várának első ispánja lehetett, s a név valószínűsíthetően az ótörök baya méltóságnévből származik. A történészek szerint a régió területét legelőször az illírek és a kelták lakták, később a római császárkorban a szarmaták. A 6. század végétől a területet az avarok lakták. Észak-Bácskában az avar népesség a 9. század közepéig mutatható ki. A 9. században a terület bolgár birodalom része lett, Szalán uralkodhatott a régió fölött, amelynek székhelye a legenda szerint a Duna és a Tisza összefolyásánál, Titelnél helyezkedett el (Szalán személye azonban vitatott). A 9-10. században a honfoglaló magyarok elűzték a bolgárokat a területről, amely így később a Magyar Királyság része lett. A középkorban gazdag, viszonylag sűrűn települt táj volt. Két vármegye alakult ki rajta: a Ferenc-csatorna vonalától délre a 11. században Bács vármegye, amelynek Bács település volt a központja (a vármegyét 1074-ben említik először), és Bodrog vármegye attól északra. Kérdés: Milyen etnikai összetételű volt a Bácska szerbiai része 2002-ben?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "2002-ben a Bácska szerbiai részén 1.022.524 személy élt, ennek 54,74% szerb, 21,70% magyar, 24,66%-a pedig szlovák, bunyevác, sokác, cigány és német nemzetiségűnek vallotta magát."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "2002-ben a Bácska szerbiai részén 1.022.524 személy élt, ennek 75% szerb, 15% magyar, és 10% egyéb nemzetiségűnek vallotta magát."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 1.0
+            }
+        ]
+    },
+    "514": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A két Morávia kialakulásának oka A fenti konklúziót több, ettől független körülmény is megerősíti. Az avarok korától ismert szláv törzsek mindegyike megkettőződött, és egyik fele a Kárpát-medencéhez képest délebbre, a másik meg északabbra található – ez pedig nem más, mint az északi és déli szlávok elkülönülése (az északiakat ma nyugati szlávoknak nevezzük). A vendek ma is megtalálhatók északnyugaton és délnyugaton. A fekete-horvátok adriai államával pontosan szemben lévő tájon, a Kárpátok északkeleti ívén a fehér-horvátok éltek. A magyarok tótoknak nevezték a szlovéneket és szlovákokat is – nem véletlenül (sőt a szláv szavunk is tőlük ered, a déliek szlavón megnevezéséből). A szerbek északi párjai a szorbok. Az antok teljesen szétszóródtak. A Drávától délre lévő szláv állam (amelyet sokan ismeretlen etnikumként írnak le) a Szerémségtől a (másik) Morváig terjedő Moravia Magna, a déli morvák állama. A Kárpát-medence ezzel ellentétes oldalán pedig az északi morvák nyitrai fejedelemsége állt. A morvák kettéválása ugyanarra az okra vezethető vissza, mint a déli szlávok elkülönülése általában: a Kárpát-medencét birtokló avarok telepítéspolitikája szerint az itt korábban lakó, vagy a környéken található népességeket két részre osztották, és a határvidékekre, gyepűvédelemre telepítették őket ... .Szvatopluk uralkodása A morvák a halottnak hitt Rasztiszlav helyére Schlagmar nevű rokonát tették meg fejedelemnek. Szvatoplukot (Svätopluk) közben Karlmann hűtlenséggel vádolva elfogatta és börtönbe záratta. Szvatopluk azonban tisztázta magát és vállalta, hogy Schlagmar ellen harcol. A sereg élén érkező Szvatopluk azonban Rasztiszláv várához érve újra csatlakozott a morvákhoz és a bajorok ellen vonult. 872-ben már fejedelemként sikeresen verte vissza az árulását megtorló frank támadást, kiűzte a frankokat az országból és a következő években is sikeresen védelmezte azt szomszédaival szemben. 873-ban már Szvatopluk támadta Karlmannt, de Lajos közbelépésére a morva fejedelem ismét hűséget esküdött a királynak és adófizetésre kötelezte magát. VIII. János pápa 880-ban "
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "124": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Kapcsolódó szócikkek\nHorvátország uralkodóinak listája\n11. századi magyar külkapcsolatok és hadügy ... A királyság zsupánságai\nKirályi zsupánságok: Kérdés: Mi volt a zsupánságok szerepe a középkori magyar királyságban, és hogyan kapcsolódtak a királyi zsupánságok a központi hatalomhoz?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A zsupánságok a középkori magyar királyság alapvető közigazgatási egységei voltak, amelyeket egy zsupán (ispán) irányított. A királyi zsupánságok közvetlenül a király fennhatósága alatt álltak, ahol a zsupán a király képviselője volt, és ő intézte az igazgatást, a joggyakorlatot és a hadi ügyeket. Ez a rendszer biztosította a központi hatalom elérését az ország különböző részeibe, segítve a királyi hatalom megerősítését és a területek ellenőrzését."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A zsupánságok autonóm területek voltak a középkori magyar királyságban, amelyeket helyi nemesek irányítottak, függetlenül a központi hatalomtól. A királyi zsupánságok csak névlegesen tartoztak a királyhoz, valójában a helyi nemesség uralkodott rajtuk, és gyakran nem ismerték el a királyi parancsokat. Ez a rendszer a feudális széttagoltság eredménye volt, amely meggyengítette a központi hatalmat."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "128": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A háború utáni első időszak\n1920. március 1-jén IV. Károly magyar király Horthy Miklóst nevezte ki kormányzónak, nem választással került hatalomra, gyakorlatilag korlátlan, egyes vélemények szerint diktatúra fejeként. Innen számítható a hivatalossá vált "
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1419": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Németek kitelepítése (1946–48) A magyarországi németek kitelepítése a második világháború után mintegy 200-220 ezer magyarországi lakost érintett ... .Kapcsolódó szócikkek Bărăgani deportálások Az észak-erdélyi zsidóság gettósítása és deportálása A magyarországi vidéki zsidóság gettósítása és deportálása A németek kitelepítése A romániai németek kitelepítése a Szovjetunióba Kérdés: Hány magyarországi lakost érintett a németek kitelepítése a második világháború után?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A magyarországi németek kitelepítése a második világháború után mintegy 200-220 ezer magyarországi lakost érintett."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A magyarországi németek kitelepítése a második világháború után mintegy 500-600 ezer magyarországi lakost érintett."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1022": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A bahái hit napjainkban A bahái hitűek támogatnak minden olyan kezdeményezést, ami a világ egyesítését közelebb hozza. Ilyenek az egy-világ-kormány és -vallás, a viszályok békés megoldása (ellenzik az adott ország törvényeivel való szembeszegülést), a nemek egyenlősége, nyomor felszámolása és mindenféle megkülönböztetés megszüntetése is. Az abortuszt jelenleg az egyéni lelkiismeret döntésére bízzák, de hangsúlyozzák az egyén óriási felelősségét és elítélik az abortusz születésszabályozásra való felhasználását. Mások szolgálatát egyfajta istentiszteletnek tekintik. Helytelenítik a válást, de nem büntetik, és nem ítélik el. A homoszexuális embert nem ítélik el, a homoszexualitást viszont a természetes (heteroszexuális) nemi irányultság torzulásának tekintik. A homoszexuális életformát nem tartják összeegyeztethetőnek Isten akaratával, a házasság szentségét rendkívül fontosnak tartják. A bahái hit követőinek száma 5-6 millió körül van. A közösség irányítását helyi és országos szinten az évente választott Szellemi Tanácsok végzik el. A vezető testület az Igazságosság Egyetemes Háza Haifában (Izrael) székel. Jelenleg több mint 180 országban működik Országos Szellemi Tanács. Az európai templom Frankfurt mellett található. Indiában 1,5 millió, Iránban 300 ezer az USA-ban pedig mintegy 120 ezer hívő él ... .A bahái hit kezdetei A 19. század elején a közel- és közép-keleti térség, politikai, gazdasági és társadalmi hanyatlás jeleit mutatta. Irán népe, amely a korábbi évszázadokban fejlett civilizációnak számított, más népekhez viszonyítva, az 1800-as években legyengült és elszigetelődött a világ fejlődésétől. Amíg a gazdag uralkodó réteg fényűző életet élt, a nép szegénységben szenvedett, nyomorúságos körülmények között tengette életét. Irán lakosságának vallási összetétele változatos volt: éltek itt muszlimok, zoroasztriánusok, keresztények és zsidók is. A vallási türelmetlenség és gyűlölet mindennapos volt. Kérdés: Milyen nézeteket vall a bahái hit a nemek egyenlőségről és a homoszexualitásról?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A bahái hit támogatja a nemek egyenlőségét, a homoszexuális embert nem ítélik el, de a homoszexualitást a természetes nemi irányultság torzulásának tekintik, és nem tartják összeegyeztethetőnek Isten akaratával."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A bahái hit ellenzi a nemek egyenlőségét, és a homoszexualitást bűnöknek tekinti, amit szigorúan büntetnek, különösen a muszlim többségű Iránban."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "737": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A szócikkben használt angol közigazgatási kifejezéseket a külön fejezet sorolja fel, bár sok helyen megjegyzésként is feltüntettük. Ennek oka, hogy nincs magyar megfelelője, vagy a magyar fordítás eltérő jelentés tartalmú. A szövegben kurzívval jeleztük ezeket a kifejezéseket, szavakat ... .A földek koronához kerülésének története Leinster lordship Richard de Clare-től, Pembroke 2. grófjától a lányára, Isabel de Clare-re szállt, aki feleségül ment William Marshalhoz, Pembroke 1. grófjához – a címet férje számára újra létrehozták. Ezt a házasságot Földnélküli János király megerősítette, és Isabel birtokait hitvesi jogon Williamnek adta. A liberty-t azt követően osztották öt részre – Carlow, Kildare, Kilkenny, Leix és Wexford –, hogy a pár mind az öt fia meghalt, így az öt lányuk között osztódott szét az örökség. Meath Walter de Lacy unokái, Maud és Margery között került felosztásra. Maud része Trim libertyje lett. Maud unokája, Joan Roger Mortimerrel, March 1. grófjával kötött házasságát követően Trim a leszármazottaikon keresztül később az angol koronára szállt. Margery része megőrizte a Meath nevet, és John de Verdon felesége lett. Meath, amely időközben a Talbot család birtokába került, VIII. Henrik uralkodása alatt, a távollévők birtokairól szóló törvény alapján került vissza a koronához. John de Courcy megtagadta a király iránti engedelmességet, és önálló hatalmat gyakorolt Ulsterben, ezért kegyvesztett lett Földnélküli János királynál. A király 1204–1205-ben Hugh de Lacyt bízta meg Ulster vezetésével. A férfi legyőzte de Courcyt, így a terület királyi döntéssel új birtokoshoz került. Connaught, amelyet korábban William de Burgh kapott meg, egy időpontban Connaught és Roscommon liberty-re oszlott. William unokáját, Walter de Burght 1264-ben Ulster grófjává is kinevezték, így Connaught és Ulster egyazon földesúr fennhatósága alá került. 1352-ben Elizabeth de Burgh, Ulster 4. grófnője feleségül ment Lionel of Antwerphez, III. Eduárd király egyik fiához. Egyetlen gyerekük, Philippa Edmund Mortimerhez, March 3. grófjához ment férjhez. Edmund Mortimer, March 5. grófjának 1425-ben bekövetkezett halálakor mindkét földesúri terület Plantagenet Richárd yorki hercegre szállt. Fiának, IV. Eduárd királlyá válásával az örökség beolvadt a királyi birtokok közé. A kiváltságolt területek (liberty-k) koronára szállásával azoknak a megyéknek a száma is csökkent, amelyek nem a királyi sheriff, hanem saját földesúri joghatóság alatt álltak (ezeket angolul Counties of the Cross-nak nevezik). A Stuart-korra mindössze Tipperary maradt meg különleges jogállású megyeként, míg a többi VIII. Henrik uralkodása idejére megszűnt. Tipperary külön jogállását I. Jakab király megszüntette, és a területet közvetlen királyi igazgatás alá vonta. 1662-ben, II. Károly uralkodása alatt a területet újból létrehozták James Butler, Ormonde 1. hercege számára. Kérdés: Hogyan kerültek a kiváltságos területek (liberty-k) az angol korona birtokába?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A liberty-k különböző utakon kerültek a korona birtokába: öröklési viták útján (Leinster az öt lány közötti felosztás után), házasságok révén (Meath Joan Mortimer és leszármazottai útján), vagy kegyvesztett földesúrok birtokainak újraelosztásával (John de Courcy Ulsterjének Hugh de Lacy általi átvétele után)."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A liberty-k soha nem kerültek a korona birtokába, mert mindig független földesúri joghatóság alatt álltak, és soha nem voltak az angol korona közvetlen irányítása alatt."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1234": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Fizetékek az NDN Zrt.-nél Az NDN Zrt.-t bírálat érte a magas vezetőségi fizetékekért is. A Magyar Nemzet szerint a vezérigazgató például 2016-ban havi 1,4 millió, 2017-ben pedig havi 1,95 millió forintot keresett, helyettese havi fizetése pedig 1,3 millió forint volt ... .Szabálymódosítások A bevezetés után a dohánybolti működés szabályai többször módosultak. 2014. május 31-étől bolt nem működhetett dohány-kiskereskedelmi koncesszióval benzinkúton vagy 2500 négyzetméternél nagyobb üzlethelyiséget is befogadó plázaban. A módosítás következtében 300-nál több trafiknak kellett költöznie vagy bezárnia. A rendeletmódítás indoklása szerint az átszervezésre az érintett üzlethelyiségek túlzott profitja miatt volt szükség. Kérdés: Mi volt az indoklás a trafikok működési szabályainak 2014-es szigorítására?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A rendeletmódítás indoklása szerint az átszervezésre az érintett üzlethelyiségek túlzott profitja miatt volt szükség."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A trafikok működési szabályainak szigorítása a dohánytermékek káros hatásainak csökkentése érdekében történt, mivel a nagyobb forgalmú helyeken több fiatal vásárolt dohányterméket."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "239": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A vegyesházi királyok korában (1301–1526)\nFőcikk: A vegyesházi királyok kora ... Tengermelléki (vice)bánok\n1182 körül: Mór tengermelléki bán\n1188 körül: Damianus tengermelléki bán és zárai comes\n1189 körül: Makariás tengermelléki vicebán\n1225 körül: Voinc tengermelléki bán\n1243 körül: István tengermelléki bán\n1259 körül: Sándor tengermelléki bán és szlavón vicebán\n1259 körül: Butheco tengermelléki bán\n1273 körül: Mór tengermelléki bán\n1273–1312: Pál tengermelléki vicebán\nKérdés: Ki volt a leghosszabb ideig hivatalban lévő tengermelléki (vice)bán a felsoroltak közül, és mennyi ideig?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "Pál volt a leghosszabb ideig hivatalban lévő tengermelléki vicebán a felsoroltak közül, aki 1273 és 1312 között, tehát 39 évig töltötte be ezt a tisztséget."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Sándor volt a leghosszabb ideig hivatalban lévő tengermelléki (vice)bán, aki 30 éven keresztül, 1259 és 1289 között töltötte be ezt a tisztsét."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1246": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A rendszerváltás utáni kutatómunka A modern magyar nemzetfogalom kialakulásának összefoglaló kifejtését legutóbb Katus László történész végezte el. Eszerint a modern magyar nemzetfogalom a 19. században jött létre. Ezt megelőzően, a 18. századig a Kárpát-medence különböző nyelvű és eredetű népei közötti összetartozási tudat a natio Hungarica, a magyar rendi nemzet fogalmában jelent meg. Ennek a politikai jogokkal egyedül rendelkező rendi nemzetnek egyenjogú tagja volt a szlovák, román vagy horvát nemzetiségű nemes is, akkor is, ha nem tudott magyarul. Ezt lehetővé tette az is, hogy az államélet hivatalos nyelve a latin volt, a társadalmi élet egyéb fórumain pedig a vegyes lakosságú területeken a többnyelvűség érvényesült. A 19. század elejétől megjelent a modern, a nyelvi nacionalizmus, nemzeti érzés, ami a kisebbségek körében meggyengítette a közös haza iránti lojalitást. Ezek a modern, nyelvi nemzettudatok fokozatosan szembeállították egymással az ország népeit. Az ekkoriban érvényre jutó etnikai-nyelvi nacionalizmus a nemzetet visszamenőleg is az államtól független, ősi, elsődleges természeti képződményként fogta fel, aminek meghatározó jegye a nyelv, az etnikum, a népi hagyomány, a "
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "335": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Lappok (számik)\nUtazók feljegyzésein túl a lapp folklór régebbi rétegéhez tartozó mesék is megőrizték a noajde alakját, és a varázsdob használatára is történik utalás. A noajde képes természetfölötti cselekedeteket végrehajtani (például két sziget fölcserélése), vagy a vadászott állatok bőségét megvédeni ellenséges varázslókkal szemben. Sok más samanisztikus kultúrában meglévő motívum, hogy a sámánok közvetlenül is megküzdhetnek egymással, ez a lappoknál is dokumentálható: XVIII. századi feljegyzés is beszámol e hiedelemről, és mesék is megőrizték noajdék egymással vívott párharcának motívumát. A sámán dobját használva, énekelve jutott révületbe, és míg teste mozdulatlan feküdt, a hiedelem szerint távoli világba tett utazást. Segítője gondoskodott az utazás vagy a hazatérés biztonságáról ... .küzdő sámánizmus\nengesztelő sámánizmus.\nA szibériai, eurázsiai és észak-európai sámánizmusok alapvonása a küzdő sámánizmus: a sámán nem alkudozik az ártó szellemmel, hanem megmérkőzik vele.\nAz engesztelő sámánizmusokban az ártó szellemekkel, ha azok erősek, nem veszi föl a sámán a harcot, hanem a rossz szellem által gyötört személyt megváltja, azáltal, hogy a szellemnek más individuumot bocsát rendelkezésére. A dél-amerikai sámánizmusokban ez gyakran tengerimalac, az afrikaiban baromfi. Ha a sámán elég erős, át is parancsolhatja a rossz szellemet állatba. A sámánok szerint ilyen jelenettel találkozunk az Újszövetségben is, midőn Jézus a démonok által megszállott emberből a disznófalkába parancsolja át őket. Kérdés: Hogyan különbözött a küzdő sámánizmus az engesztelő sámánizmustól a lappok körében?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A küzdő sámánizmusban a sámán nem alkudozik az ártó szellemmel, hanem megmérkőzik vele, míg az engesztelő sámánizmusban, ha a szellem erős, a sámán nem veszi fel a harcot, hanem a rossz szellem által gyötört személyt megváltja, más individuumot bocsátva a szellem rendelkezésére."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Mindkét típusú sámánizmusban a sámánok először megpróbálták megbékíteni az ártó szellemeket áldozatokkal és imádságokkal, de ha ez sikertelen volt, akkor mindkét esetben harcba szálltak velük. A különbség csak abban rejlett, hogy a küzdő sámánizmusban a sámán egyedül, míg az engesztelő sámánizmusban a közösség tagjainak segítségével küzdött."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "552": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: 1336 延元 Engen\n1340 興国 Kókoku\n1346 正平 Sóhei\n1370 建徳 Kentoku\n1372 文中 Buncsú\n1375 天授 Tendzsu\n1381 弘和 Kóva\n1384 元中 Gencsú (Gencsú 9 Meitoku 3 lett az egyesítés után)\nÉszaki udvar ... A nyugati időszámítás (西暦, szeireki)\nA japán korszakok nevei alapján (年号, nengó) a korszak kezdete óta eltelt évek száma\nA Császári Év szerint (皇紀, kóki) Dzsinmu császár mitikus államalapításától számított (időszámításunk előtt 660)\nNapjainkban ezek közül az első kettőt használják, a császári naptárat 1873-tól a második világháború végéig használták. Kérdés: Hogyan működött a japán időszámítás a történelem során, és mi a különbség a nengó, a szeireki és a kóki között?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "Japánban három fő időszámítási rendszert használtak. A nengó (年号) a császári korszakokra utal, amelyeket a császári uralkodás kezdetétől számolnak. A forrás szerint például 1336-ban kezdődött az Engen korszak, 1340-ben a Kókoku, és így tovább. A szeireki (西暦) a nyugati, Gergely-naptárat jelenti. A kóki (皇紀) Dzsinmu császár mitikus államalapításától számít, ami időszámításunk előtt 660-ra esik. Napjainkban a nengót és a szeirekit használják, míg a kókit 1873-tól a második világháború végéig használták."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Japánban mindig csak egyetlen időszámítási rendszert használtak, a nengót, ami az uralkodók nevét és számát használja. A szeireki és kóki külföldi befolyás eredményei, sosem voltak igazán elterjedtek a szigetországban. A császári naptár mindig is Japán hivatalos időszámítási rendszere volt, és a második világháború után is megmaradt."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1177": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Homogenizálódás A homogenizálódás a kulturális és pénzügyi globalizáció folyamata, aminek lényege az egységes(ebb) szokások és működések szükségszerű kialakulása. Általában nemzetközi üzletláncok (pl.: McDonald's, Tesco) terjedésével és egy egységes fogyasztói kultúra kialakulásával jár. A globalizáció kritikusai ezt a folyamatot támadják leginkább, mivel sokak szerint ezek a folyamatok az országok, népek saját identitásának eltűnésével járnak, más vélemények szerint viszont ez kizárt, mert a kulturális identitások eltüntetése nem áll a gazdasági folyamatok érdekében ... .Kapcsolódó szócikkek Multinacionális vállalat Mályva gazdaság Transzatlanti gazdasági kapcsolatok Kérdés: Magyarázza el, miért támadják leginkább a globalizáció kritikusai a homogenizálódás folyamatát!"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A globalizáció kritikusai a homogenizálódást támadják leginkább, mert szerintők a nemzetközi üzletláncok terjedése és az egységes fogyasztói kultúra kialakulása veszélyezteti az országok és népek saját identitását. Úgy vélik, hogy a kulturális globalizáció hatására eltűnhetnek a hagyományos szokások és a helyi kultúrák sajátosságai."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A homogenizálódásért a globalizáció kritikusai nem támadják, hanem ünneplik, mert ez a folyamat lehetővé teszi a különböző országok gazdasági integrációját és növekedését. A kritikusok szerint a homogenizálódás elősegíti a kölcsönös megértést és a béke előmozdítását a nemzetek között, így nincs értelme támadni ezt a folyamatot."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1378": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Szibéria Oroszország kelet felé történő terjeszkedése kevés akadályba ütközött. 1581-ben a szőrmekereskedelemben érdekelt Sztroganov család egy kozák vezetőt, Jermak Tyimofejevicset alkalmazta, hogy Nyugat-Szibériába menjen. Jermak legyőzte a Szibériai Kánságot, és Oroszországhoz csatolta az Ob és Irtis folyóktól nyugatra lévő területeket. Kereskedők és felfedezők mentek keletre az Obtól eleinte a Jenyiszejig, majd a Lénáig és végül a Csendes-óceán partvidékéig. 1648-ban Szemjon Dezsnyov áthajózott a Bering-szoroson. A Csing-dinasztiával való konfliktusa után Oroszország 1689-ben békét kötött Kínával. A nyercsinszki szerződésben Oroszország lemondott az Amur-völgyről, de a Bajkál-tótól keletre lévő területeket és a Peking felé vezető kereskedelmi utat megszerezte ... .Hódítások Sztyeppék 1648-ban a Zaporozsjei Had hetmanja, Bohdan Hmelnyickij felajánlotta, hogy szövetkezzen I. Alekszej orosz cárral. Alekszej elfogadta az ajánlatot az 1654-es perejaszlavi szerződésben, ami az 1654–1667-es orosz-lengyel háborúhoz vezetett. Kérdés: Mi voltak Oroszország legfontosabb területi gyarapodásai Szibériában és a Távol-Keleten a 16-17. században, és hogyan befolyásolta ezeket a folyamatokat a kapcsolatuk Kínával?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A 16-17. században Oroszország legfontosabb területi gyarapodásai Szibériában és a Távol-Keleten a következők voltak: 1) Jermak Timofeyevich győzelme a Szibériai Kánság felett, ami az Ob és Irtis folyóktól nyugatra eső területek Oroszországhoz csatolásához vezetett (1581). 2) A terjeszkedés kelet felé, amely elért a Jenyiszejig, majd a Lénáig, és végül a Csendes-óceán partvidékéig. 3) 1648-ban Szemjon Dezhnyov átkelése a Bering-szoroson, amely megnyitotta az utat Észak-Amerika felé. A kapcsolatuk Kínával döntő hatással volt a terjeszkedésre: a konfliktus után Oroszország 1689-ben békét kötött Kínával, ahol lemondott az Amur-völgyről, de megszerezte a Bajkál-tótól keletre eső területeket és a Peking felé vezető kereskedelmi utat (nyercsinszki szerződés)."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A 16-17. században Oroszország Szibériában és a Távol-Keleten jelentős területeket vesztett el, amelyeket a mongolok és a kínaiak annektáltak. A nyercsinszki szerződésben Oroszország elvesztette a Bajkál-tótól keletre eső területeket, és nem kapott semmilyen kereskedelmi előnyt Kínától. A terjeszkedést főleg a lengyel-litván közöswealth akadályozta meg, amely sikeresen visszaszorította az oroszokat."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "445": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Jogforrások\n1222. évi törvénycikkek Előbeszéd A szent Háromság egy Isten nevében.\n1222. évi I. törvénycikk Szent István király ünnepéről\n1938. évi XXXIII. törvénycikk Szent István király dicső emlékének megörökítéséről (Kihirdetve: 1938. VIII. 18.)\n2000. évi I. törvény Szent István államalapításának emlékéről és a Szent Koronáról (Kihirdetve: 2000. I. 1.) ... Augusztus 20. Magyarország nemzeti ünnepe és hivatalos állami ünnepe az államalapítás és az államalapító I. (Szent) István király emlékére. A nap egyben a magyar katolikus egyház egyik – Magyarország fővédőszentjének tiszteletére tartott – főünnepe.\nA magyar történelemben az államalapító király 1083. augusztus 20-i szentté avatásától szerepet játszik Szent István emlékezete, amit koronként eltérően értelmeztek és ünnepeltek. Az Árpád-korban az uralkodó dinasztia legitimációját szolgálta az István-kultusz, melyet a később hozzákapcsolódó Szűz Mária-tisztelet egyházi jellegűvé változtatott. 1686-ban XI. Ince pápa Buda visszafoglalása alkalmából elrendelte, hogy a katolikus világ évente emlékezzen meg Szent Istvánról. 1771-ben Mária Terézia országos ünneppé minősítette Szent István napját, és Budára hozatta a Szent Jobbot, ezzel fejezve ki, hogy a Habsburgok legitim magyar uralkodók. Az 1848–49-es forradalom és szabadságharc leverése utáni Bach-korszakban nem engedélyezték a független magyar államot jelképező első király ünneplését, de 1891-ben Ferenc József munkaszüneti nappá tette augusztus 20-át. A két világháború között újra a nemzeti érzelmek kerültek előtérbe, így az 1938. évi székesfehérvári országgyűlés törvénybe iktatta Szent István emlékét és a nemzeti ünnepet. A kommunista hatalom ezt nem törölte el, hanem 1950-től a népköztársaság, illetve az alkotmány ünnepének nevezte. A rendszerváltás után, 1991-ben az Országgyűlés a nemzeti ünnepek közül kiemelte állami ünneppé nyilvánította. Kérdés: Hogyan változott az államalapító Szent István emlékezete és ünnepe a magyar történelemben különböző korokban, és hogyan használták a hatalommal kapcsolatos kérdések legitimációjára?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A magyar történelemben Szent István emlékezete és ünnepe jelentősen változott. Az Árpád-korban az uralkodó dinasztia legitimációját szolgálta, majd egyházi jellegűvé vált a Szűz Mária-tisztelettel összekapcsolódva. 1686-ban XI. Ince pápa országos ünneppé tette, 1771-ben Mária Terézia országos ünneppé minősítette, ezzel a Habsburgok magyar uralkodói legitimációját hangsúlyozva. A Bach-korszakban tiltották, de 1891-ben Ferenc József munkaszüneti nappá tette. A két világháború között a nemzeti érzelmek kerültek előtérbe, 1938-ban törvénybe iktatták. A kommunista hatalom nem törölte el, hanem 1950-től a népköztársaság ünnepének nevezte. A rendszerváltás után, 1991-ben állami ünneppé nyilvánították."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Szent István ünnepe mindig is változatlan formában létezett Magyarországon, és sosem játszott szerepet a politikai legitimációban. Mária Terézia azért tette országos ünnepéggé, mert személyes tiszteletét akarta kifejezni az államalapító iránt. A Bach-korszakban nem azért tiltották, mert a Habsburgok félték a magyar nemzeti érzelmeket, hanem mert Szent István ünnepe túl sok pénzbe került. A kommunista rendszer teljesen eltörölte ezt az ünnepet, és csak a rendszerváltás után, 1991-ben állították vissza állami ünnepként."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "508": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: \"A honfoglaló magnépesség genomja a mai népek közül a baskírokhoz, valamint a szibériai és volgai tatárokhoz hasonlít leginkább. Ugyanez a genom 50% manysi (finnugor), 35% szarmata (indoiráni) és 15% hsziungnu (ázsiai hun) keveredéseként modellezhető. Török Tibor (az SZTE Genetikai Tanszék és az Magyarságkutató Intézet Archeogenetikai Kutatóközpontjának munkatársa) 2023 áprilisában Szentendrén egy konferencián így ismertette eredményeiket: ... Nevük etimológiája A görög szarmata (Σαρμαται) vagy szauromata (Σαυρομαται) elnevezés az óiráni nyelvű saját (endonim) elnevezésükből ered. A szauromata forma az i. e. 3. század elejéig párhuzamosan volt használatos a szarmata formával, ezután azonban az utóbbi változat lett általános. Nevük etimológiája széles körben vitatott a kutatók körében. Az egyik értelmezés szerint nevük jelentése az óiráni nyelvben hajító dárdával és íjjal felfegyverzett harcost (magyarul lövő esetleg íjász vagy dárdás) jelentett, és megfelelt a szanszkrit nyelvű śárumant (शरुमन्त्) szónak. A szkíták önelnevezése hasonló volt, skuδatā, azaz \"nyilazók\". Ugyancsak régi és megoldatlan tudományos vita a szauromaták és a szarmaták azonosságának vagy különbségének kérdése. Sokan, főleg orosz történészek megkülönböztetik a szauromatákat a szarmatáktól, és a szauromatákat korai szarmatáknak tartják. Más történészek szerint ugyanazon nép névváltozatairól van szó. A többségi álláspont, és a témával foglalkozó magyar kutatók álláspontja is inkább az, hogy a két népesség és kultúrájuk nem különíthető el, esetleg a közös történelmük korai szakaszára alkalmazzák a szauromata, mint a szarmata nevet.\" Kérdés: Hogyan magyarázható a magyarok genetikai kapcsolata a szarmatákkal, és mi a helyzet a szauromaták és a szarmaták azonosságának kérdésével a történelmi kutatásokban?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A magyarok genetikai kapcsolata a szarmatákkal azzal magyarázható, hogy a honfoglaló magyarok genomja 35%-ban szarmata (indoiráni) keveredésből származik, és a mai népek közül a baskírokhoz, valamint a szibériai és volgai tatárokhoz hasonlít leginkább. A szauromaták és a szarmaták azonosságának kérdése pedig egy vitatott tudományos kérdés: míg egyes történészek külön népnek tartja őket (a szauromatákat korai szarmatáknak), a többségi álláspont és a magyar kutatók véleménye szerint inkább a két népesség és kultúrájuk nem különíthető el, esetleg a közös történelmük korai szakaszára alkalmazzák a szauromata nevet."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A magyarok genetikai kapcsolata a szarmatákkal nem jelentős, mivel a honfoglaló magyarok genomja leginkább germán népekhez hasonlít, és csak kis mértékben tartalmaz szarmata elemeket. A szauromaták és a szarmaták pedig teljesen különböző népek voltak, amelyek soha nem érintkeztek egymással, és a nevüknek semmi köze egymáshoz."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "476": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Története 1629 Csaknem négy évszázada léztezik az Y rovásjele. Bonyhai Moga Mihály ábécéjében láthatjuk az első kísérletet a latin ábécében fellelhető Y rovásváltozatának lejegyzésére ... .Szabványjavaslat: A tanácskozás résztvevői határozatban támogatták a székely-magyar rovásnak az Unicode szabványosítás számára Dr. Hosszú Gábor által készített és az Élő Rovás Tanácskozáson bemutatott szabványtervezetét (N3527 Archiválva 2008. december 21-i dátummal a Wayback Machine-ben), amely tartalmazza az Y rovásjelét is. Kérdés: Mikorra vezethető vissza az Y rovásjel első írásos említése?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "Az Y rovásjel létezése már csaknem négy évszázada, tehát a 17. század elején, 1629 környékén már létezett."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Az Y rovásjele csak a 21. században kezdődött el használni, amikor Dr. Hosszú Gábor javasolta a Unicode szabványba való bevezetését."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "827": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A gyarmatok. Cortés, Alvarado és Pizarro A felfedezők a kereskedelmi telepek létrehozása után, ahol lehetséges volt, az újonnan megismert népeket és területeket megszállták, gyarmatosították. Ázsia népes és fejlett országait az európai hajósok nem tudták meghódítani, itt be kellett érni jól jövedelmező kereskedőtelepek létrehozásával. Az Indiai-óceánon az arabokat kiszorítva a portugálok vetették meg a lábukat, s kereskedelmi támaszpontokat létesítettek Indiában (Goa), Indonéziában, sőt Kínában (Makaó) és Japánban is. Lisszabon kikötője a távol keleti áruk elosztóhelyévé vált. Közép-Amerikában a Yucatán-félszigeten a maják városállamai egy-egy helyi főnök közvetlen vallási (politeista) és politikai vezetése alatt álltak, az összekötő kapocs a közös vallás, nyelv és kultúra volt. Az \"Újvilág görögjeiként\" is emlegetett maják műveltsége, gazdag művészi értékei mellett fejlett matematikai és csillagászati ismereteket is magában foglalt. A húszas számrendszert használták, nagy pontossággal számították ki a napévet és a holdhónapokat. Az aztékok 1325-ben alapították meg fővárosukat, Tenocstitlant, a Popocatépetl lábánál és 1428-ban hozták létre Közép-Amerika nagy részét egyesítő független államukat. Intenzív földművelést folytattak, a mocsarakban \"úszókerteket\" (mesterséges szigeteket) alakítottak ki, évente többször is be tudták takarítani a termést. Még a vízvezetéket is kiépítették. Jellemző növényeik: a kukorica, a bab, a tök, a paradicsom, a kakaó, a gyapot és a dohány. A ránk maradt források sokszínű kézműiparról, építészetről, élénk kereskedelemről és megtervezett városokról tanúskodnak. A spanyol hódítás korában már megszilárdult a helyi arisztokrácia öröklődő hatalma, sikeresen szervezték meg a rabszolgák munkáját. A főpapok tömeges emberáldozatokat (hadifoglyok, rabszolgák vagy maguk közül betegek) mutattak be isteneiknek (politeizmus). A városok központja a mezopotámiai zikkuratokhoz hasonló piramistemplom volt, amelyet áldozati célokra használtak. Az áldozatot először különböző szerek segítségével elbódították, majd egy obszidián kőzetből készült késsel a mellkasát felvágták és kitépték a dobogó szívét. Ezeket a szertartásokat általában a Napnak szentelték, mivel attól féltek, hogy elfogy az ereje. A hódítók a központi templom mellett megközelítőleg 60 000 koponyát találtak és a lépcső is iszapos volt a vértől. Hernán Cortés ötszáz katonája élén az Azték birodalmat söpörte el 1519-ben. Győzelmét elősegítették az aztékok belső küzdelmei, s hogy a fehéreket az egykor nyugatra távozott tollaskígyó istenük, Quetzalcoatl leszármazottainak tekintették. Az azték területeken a spanyolok létrehozták Új-Spanyolország alkirályságot (a mai Mexikót). A maják földjét Pedro de Alvarado vette birtokba 1523-ban. Az inkák birodalmának meghódítása pedig Francisco Pizarro nevéhez fűződik 1532-ben ... .Középső kőkorszak A középső kőkorszak a kőkorszak szakaszai közül a második. Idegen néven: mezolitikum, magyarul: átmeneti kőkorszak vagy középső kőkorszak. Földtörténet szempontjából a korai európai holocénnel esik egybe, legújabb meghatározások szerint kb. 11 500 évvel ezelőtt kezdődött és a földművelés, illetve állattenyésztés megjelenésével ért véget, kb. a I. e. 8-6. évezredben. A mezolitikum az utolsó jégkorszak, a Würm végével és az európai pleisztocén megafauna (barlangi medve, barlangi oroszlán, gyapjas mamut, gyapjas orrszarvú, óriásszarvas stb.) kihalásával vette kezdetét Európában. A középső kőkorszak emberei vadászattal és gyűjtögetéssel szerezték táplálékukat, ám a vadbőség megszűnése miatt csökkent a vadászat jelentősége és fokozatosan egyre nagyobb szerepet kapott a földművelés és az állattenyésztés (utóbbiaknak talán éppen a vadbőség vége lehetett a hajtóereje). A mezolitikum tehát tulajdonképpen átmeneti kor a vadászó-gyűjtögető és a letelepedett földművelő és állattenyésztő életmódok között. A mezolitikum emberei többnyire vándorló, de helyenként félig-meddig letelepedett nagycsaládokban (klánokban) éltek, amelyeket arra rátermett, választott vezetők irányítottak. Az emberek még mindig kő-, fa- illetve csonteszközöket használtak, ám ezek kidolgozása sokkal finomabbá vált (például kőből készült nyíl- és dárdahegyek). Általános elmondható, hogy a mezolitikum embere által használt eszközök specializáltabbá váltak, megjelentek a különböző bőr- és famegmunkálásra szolgáló kaparók, vésők, kések. Az emberek csónakot készítettek, és hálóval, varsával halásztak. A felső paleolitikum virágzó művészete nem folytatódott a mezolitikumban, az utolsó jégkorszakkal együtt ért véget. Kérdés: Milyen tényezők segítették a spanyol hódítók győzelmét az amerikai kontinensen?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A spanyol hódítók győzelmét több tényező segítette: az aztékok és más őslakos népek belső konfliktusai, a spanyolok technikai és fegyverzeti fölénye, valamint az aztékok hite, hogy a fehéreket az egykor nyugatra távozott tollaskígyó istenük, Quetzalcoatl leszármazottainak tekintik. Cortés katonai stratégiája és a közép-amerikai népek közötti ellentétek kihasználása is hozzájárult a győzelemhez."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Az aztékok és más őslakos népek békésen fogadták a spanyolokat, és önként adták át hatalmukat nekik, mivel úgy gondolták, hogy a spanyolok isteni küldöttek, akik jobb kormányzást fognak biztosítani számukra. A hódítások vérontás nélkül történtek, és a helyi lakosság örömmel fogadta az európai kultúrát és vallást."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "936": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Politikai háttér Bodor az 1940-es években a Nemzeti Parasztpárt tagja volt, politikai nézeteit fajvédő és németellenes meggyőződés határozta meg. Visszaemlékezésében így fogalmazott: ... A Bonyhádi Nemzeti Bizottság többször tiltakozott a tábor működése miatt, és az alispáni vizsgálat is megerősítette a panaszok nagy részét. Tóth Ágnes forrásai szerint a magyar kormánynak is tudomása volt az atrocitásokról. A május 14-i pártközi értekezleten Erdei Ferenc is elismerte, hogy \"Tolna megyében, egészen pontosan 22 községben ... Bodor György a sváb községek lakosságát mozgósította, hogy helyet csináljon a magyaroknak, és a svábokat gyűjtőtáborokban tartják\". Az értekezlet ugyan elhibázottnak minősítette a korábbi akciókat, de Bodor tevékenységének felfüggesztését vagy a törvénytelenségek kivizsgálását nem kezdeményezte. A tömeges tiltakozások hatására a lengyeli foglyok egy részét később hazaengedték, de a kitelepítések és a székelyek letelepítése továbbra is súlyos társadalmi feszültségeket okozott. A korabeli panaszlevelek gyakran számoltak be a betelepítettek önkényes birtokfoglalásairól és vagyonelkobzásairól, például: Kérdés: Hogyan reagált a magyar kormány Bodor György tevékenységeire a svábok kitelepítése kapcsán?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A magyar kormány tudomást szerzett az atrocitásokról, és a május 14-i pártközi értekezleten Erdei Ferenc elismerte a problémákat, de nem kezdeményezték Bodor tevékenységének felfüggesztését vagy a törvénytelenségek kivizsgálását."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A magyar kormány azonnali hatállyal leállította Bodor György tevékenységét, miután megismerkedtek a panaszok tartalmával, és kezdeményezték a törvénytelenségek kivizsgálását, valamint a svábok visszatelepítését."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "470": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: 2009\nZomoráné Cseh Márta: Számrovás ... 1971\nAz 500-as jelére 1971-ben Bárczy Zoltán javasolt önálló jelet, melynek továbbfejlesztett változata az 1000-es rovásjelének felezett változata: Kérdés: Milyen számjegy javaslatát tette Bárczy Zoltán 1971-ben, és hogyan kapcsolódik ez az 1000-es rovásjegyhez?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "Bárczy Zoltán 1971-ben javasolt önálló jelet az 500-as számra, amelynek továbbfejlesztett változata az 1000-es rovásjelének felezett változata."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Bárczy Zoltán 1971-ben a 200-as számra javasolt önálló jelet, amelynek továbbfejlesztett változata az 500-as rovásjelének kétszöröse."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1380": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Az Orosz Cárság (oroszul: Русское царство), később Oroszországi Cárság (oroszul: Российское царство) más néven Moszkvai Cárság (oroszul: Русское царство, 'Russzkoje carsztvo') 1547–1721 között fennálló, IV. Iván orosz cár alapította államalakulat. Fővárosa 1712-ig Moszkva, majd Szentpétervár volt, államformája abszolút monarchia, államvallása az orosz ortodox vallás. Hivatalos pénze az orosz rubel volt. Az Orosz Cárság területe 1551 és 1700 közt évente kb. 35 000 km2-rel nőtt. Ez időszaknak része a Rurik- és a Romanov-dinasztiák közti átmenet (a zűrzavaros idők), a lengyel–litván államalakulattal, Svédországgal, az Oszmán Birodalommal való háborúk és Szibéria oroszok általi elfoglalása is. Elődállama az 1547-ben, IV. Iván orosz cárrá koronázásával megszűnt Moszkvai Nagyfejedelemség, utódállama az 1721-ben I. (Nagy) Péter alapította Orosz Birodalom, amely a nystadi béke után egy hónappal jött létre ... .A Romanovok Az új dinasztia célja a rend helyreállítása volt. Oroszország ellenségei, Lengyel- és Svédország egymással konfliktusba kerültek, ami lehetőséget adott Oroszországnak, hogy békét kössön Svédországgal 1617-ben. Az első Romanovok gyenge kezű uralkodók voltak. I. Mihály orosz cár uralkodása alatt az államügyeket a cár apja, Filarjet irányította, aki 1619-ben moszkvai pátriárka lett. Később Mihály fia, Alekszej orosz cár egy bojárra, Borisz Morozovra alapozta kormánya működését, aki kihasználta a népét, és 1648-ban lemondatta. Kérdés: Mely cár alapította az Orosz Cárságot és mikor?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "Iván orosz cár alapította 1547-ben."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "I. Péter cárnak köszönhetően jött létre 1617-ben."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1286": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Anglia 1976–1980 között a brit konzervatívok hozták létre a pártpolitikai agytrösztöket, hogy hatalomra kerülhessenek. Angliában az agytrösztök kis szervezetek (20–30 emberrel), kis költségvetéssel. Példák ... Magyarországon 1990 előtt Magyarországon nem voltak agytrösztök. Az 1990-es évek közepétől jelentkeztek. Minden magyar párt mögött áll egy. A Fidesz 1998-ban eredményesen támaszkodott a kormányra kerüléséhez a Századvég Politikai Elemzések Központjának szolgáltatásaira. Az MSZP Clinton agytrösztjeit \"importálta\" 2002-ben.[forrás?] A pártolitikai tevékenységet vagy aktuálpolitikai elemzést végző agytrösztök mellett a think tankek másik csoportját a specializált, illetve általános közpolitikai agytrösztök jelentik. Ezek a szervezetek, csoportok tudományos szemlélettel, szakértőként, párt- és aktuálpolitikától függetlenül elemzik a közpolitikát és az ahhoz tartozó szakterületeket. Ezek közé tartozik például a Professzorok Batthyány Köre, amely konzervatív, de nem pártközeli agytröszt, és ilyen szervezet még a szakpolitikai javaslatok készítésével és országvízió felvázolásával foglalkozó Egyensúly Intézet is, amely a legnagyobb magyar független agytröszt. Kérdés: Hogyan használta a Fidesz az agytrösztöket a hatalomra kerüléséhez?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A Fidesz 1998-ban eredményesen támaszkodott a kormányra kerüléséhez a Századvég Politikai Elemzések Központjának szolgáltatásaira."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A Fidesz sosem használt agytrösztöt a hatalomra kerüléséhez, mert elutasította ezeket a külső elemző szervezeteket."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "488": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: További információk\nA székely-magyar rovás W betű a RovásPédián (angolul)\nRovás Info Hírportál\nA rovás betűkészletek legnagyobb gyűjteménye\nLetölthető rovás betűkészletek legteljesebb gyűjteménye\nSípos Lászlóval készül interjú a Rovás Híradóban  (magyarul)\nDr. Hosszú Gábor: Interjú a Magyar Katolikus Rádió Nyelvédesanyánk c. műsorában, szerkesztő: Gyarmathy Dóra. 2012. november 18. 15.00, a felvételen 13:50-nél kezdődik az interjú. (magyarul)\nDr. Hosszú Gábor: A számítógépes paleográfia haszna. Interjú a Magyar Rádió Határok nélkül c. műsorában. 2012. július 10, az első 1:30 perc. (magyarul)\nRovásos helységnévtáblák és ezekkel kapcsolatos információk a Google Maps térképén\nHagyaték - Rovásírás - Újraéledő jelek (Duna Televízió, 2012. május 26.)\nIssues of encoding the Rovas scripts Archiválva 2011. november 19-i dátummal a Wayback Machine-ben (angolul)\nComments on encoding the Rovas scripts Archiválva 2011. november 19-i dátummal a Wayback Machine-ben (angolul)\nKanadai Magyar Cserkészek – Rovásírás a Cserkészetben\nDr. Kontur László: Nostratic language (magyarul, angolul, németül)\nCsajok és betűk videóklip, benne a W betű is ... Forrásművek\nÉlő rovás szaktanácskozás könyve Élő Rovás - Nemzeti írásunk a szabványosítás útján. Imagent Kft. – Wou kft., Budapest, 2008. 1. kiadás ISBN 9789638796714\nÉlő rovás szaktanácskozás könyve Élő Rovás - Nemzeti írásunk az egységesítés útján. Imagent Kft. – Wou kft., Budapest, 2010. 2. kiadás ISBN 9789638796752\nA Magyar Rovásírók Közösségének javaslata (készítette Dr. Hosszú Gábor): Proposal for encoding the Szekler-Hungarian Rovas in the BMP and the SMP of the UCS Archiválva 2008. december 21-i dátummal a Wayback Machine-ben, 2008. október 4.\nRovásírás konferencia - Gödöllői Szolgálat c. újság, 2008. október 9.\nFür Zoltán: A magyar rovásírás ábécés könyve, Püski, 1999.\nVér Sándor (2001): Életfa. Szeged: Bába és Társai, 2001 (Első kiadás), 2003 (Második kiadás), 2008 (Harmadik kiadás).\nGábor Hosszú (2011): Heritage of Scribes. The Relation of Rovas Scripts to Eurasian Writing Systems.  First edition. Budapest: Rovas Foundation, ISBN 978-963-88437-4-6, available in Google Books at https://books.google.hu/books?id=TyK8azCqC34C&pg=PA1\nKéki Béla: Az írás története, Gondolat, 1971.\nRumi Tamás - Sípos László: Rovás Alapismeretek, 2010. ISBN 978-963-88437-1-5 Kérdés: Milyen lépéseket tettek a magyar rovásírás egységesítésére és szabványosítására a forrásokban említett intézmények és személyek?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A magyar rovásírás egységesítésére és szabványosítására több intézmény és személy is lépett. Az 'Élő rovás szaktanácskozás' könyvekben (2008, 2010) foglalkoztak a szabványosítással és az egységesítéssel. A Magyar Rovásírók Közössége Dr. Hosszú Gábor vezetésével javaslatot tett a Székely-Magyar Rovas kódolására a UCS (Universal Character Set) rendszerében, különös tekintettel a BMP (Basic Multilingual Plane) és SMP (Supplementary Multilingual Plane) területekre. Továbbá 2008 októberében Gödöllőn konferenciát tartottak a rovásírásról, és a különböző kiadványok, mint Rumi Tamás és Sípos László 'Rovás Alapismeretek' című könyve is hozzájárultak az egységes ismeretanyag kialakításához."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A magyar rovásírás egységesítésére és szabványosítására nem történtek jelentős intézményi lépések, mivel a rovásírás csak helyi, regionális írásrendszer maradt. A forrásokban említett konferenciák és kiadványok csupán néprajzi érdeklődésre tartanak számot, és nem hoztak létre egységes szabványt. Az írásrendszer mai használatát egyetlen intézmény sem felügyeli vagy támogatja, így a különböző forrásokban szereplő változatok között nincs egységesség."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "517": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A Kárpát-medence etnikai benépesítése 892-900 között lezajlott a honfoglalás. Győrffy György szerint 500 ezer fő jött, Kristó Gyula szerint 200 ezer. A történészek többsége szerint a magyarok első kárpát-medencei szállásterülete a Dés – (Diós)Jenő (Szamosjenő) – Torda – (Maros-)Bogát – Fajsz – Várad – Bihar körzete, vagyis Erdély egy része, a Szamos és a Kőrös vízgyűjtője. Ez a terület mind a keleti kapu (Verecke), mind a déli kapu (Vöröstorony) felől jól megközelíthető, és gyakorlatilag az első útba eső lakható vidék, amely egyébként ekkor legfeljebb gyéren lakott volt, ha nem éppen kihalt. \"A régészeti leletek előfordulási helyének és sűrűségének térképezése alapján kiderül, hogy a bronzkor óta Erdély lakott területe fokozatosan összezsugorodik s legkisebb kiterjedését éppen a magyar honfoglalás előtt éri el, tehát nagymérvű elnéptelenedéssel kell számolnunk.\" Az Árpád-kori temetők embertani képe az alábbiak szerint alakul: ... önigazgatás és bíráskodás – választott esküdtek és bírák, kisebb és nagyobb ügyek intézése, pallosjog, fellebbviteli ügyek curialis intézése, immunitas, városi önkormányzat (tanács, magistratus), közügyek intézése és adószedés; a helyi plébános választásának joga, szabad tized-szedési jog, exemptio; városi (közösségi) földtulajdon, közösségi nemesi jog, nemesi földek birtoklása, nincs földesúri függés, csak közjogi, gazdasági kedvezmények, mint a közösségi adófizetés, árumegállítás, vámmentes kereskedelem (helyi, országos, regionális), ingó- és ingatlanvagyon szabadsága. Kérdés: Mi volt a magyarok első szállásterülete a Kárpát-medencében és miért éppen ezt a területet választották?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A magyarok első kárpát-medencei szállásterülete a Dés – (Diós)Jenő (Szamosjenő) – Torda – (Maros-)Bogát – Fajsz – Várad – Bihar körzete, vagyis Erdély egy része, a Szamos és a Kőrös vízgyűjtője. Ezt a területet azért választották, mert mind a keleti kapu (Verecke), mind a déli kapu (Vöröstorony) felől jól megközelíthető volt, és gyakorlatilag az első útba eső lakható vidék volt, amely ekkor már gyéren lakott vagy akár kihalt volt."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A magyarok először a Dunántúli-dombságot foglalták el, mert ott volt a legjobb termőföld és legkönnyebben tudtak megtelepedni. Ezt a területet a gazdag természeti erőforrások és a már meglévő települések miatt választották ahol sűrűn éltek emberek, akiket be tudtak olvasztani a közösségükbe."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "474": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Története 1629 Csaknem négy évszázada léztezik az X rovásjele. Bonyhai Moga Mihály ábécéjében láthatjuk az első kísérletet a latin ábécében fellelhető X rovásváltozatának lejegyzésére ... .Forrásművek Élő rovás szaktanácskozás könyve Élő Rovás - Nemzeti írásunk a szabványosítás útján. Imagent Kft. – Wou kft., Budapest, 2008. 1. kiadás ISBN 9789638796714 Élő rovás szaktanácskozás könyve Élő Rovás - Nemzeti írásunk az egységesítés útján. Imagent Kft. – Wou kft., Budapest, 2010. 2. kiadás ISBN 9789638796752 Bárczy, Zoltán (1971): Magyar rovásírás [Hungarian Rovas Script], \"Nap fiai\" újság melléklete [Sons of the Sun], 1971. A Magyar Rovásírók Közösségének javaslata (készítette Dr. Hosszú Gábor): Proposal for encoding the Szekler-Hungarian Rovas in the BMP and the SMP of the UCS Archiválva 2008. december 21-i dátummal a Wayback Machine-ben, 2008. október 4. Rovásírás konferencia - Gödöllői Szolgálat c. újság, 2008. október 9. Für Zoltán: A magyar rovásírás ábécés könyve, Püski, 1999. Vér Sándor (2001): Életfa. Szeged: Bába és Társai, 2001 (Első kiadás), 2003 (Második kiadás), 2008 (Harmadik kiadás). Gábor Hosszú (2011): Heritage of Scribes. The Relation of Rovas Scripts to Eurasian Writing Systems. First edition. Budapest: Rovas Foundation, ISBN 978-963-88437-4-6, available in Google Books at https://books.google.hu/books?id=TyK8azCqC34C&pg=PA1 Kéki Béla: Az írás története, Gondolat, 1971. Rumi Tamás - Sípos László: Rovás Alapismeretek, 2010. ISBN 978-963-88437-1-5 Kérdés: Milyen történelmi adatokat találunk a forrásokban az X rovásjel létezéséről?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A források szerint már csaknem négy évszázada létezik az X rovásjele, az első kísérlet a latin ábécében fellelhető X rovásváltozatának lejegyzésére Bonyhai Moga Mihály ábécéjében található."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Az X rovásjelet csak a 20. században találták ki és a modern technológia fejlesztette ki, amikor a számítógépes írásrendszerekre volt szükség."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "404": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A napóleoni háborúk katonája A második koalícióban 1799 márciusában, a Bonaparte Napóleon elleni második koalíciós háború kezdetén az ifjú főherceget unokabátyja, Károly főherceg, Teschen hercege alárendeltségébe helyezték, aki a Svábföldön álló császári-királyi főerő parancsnoka volt. Károly beosztott tisztjeként vett részt a hadjárat győzelmes ütközeteiben, március 21-én Ostrachnál, március 25-én Stockachnál, és június 4-én az első első zürichi csatában is. 1800 tavaszán altábornagyi (Feldmarschalleutnant) rangot kapott, és hadosztályparancsnokká (Divisionär) nevezték ki a svábföldi császári-királyi főerőben, Károly főherceg utódjának, Kray Pál táborszernagynak (1735–1804) főparancsnoksága alatt. Csapataival együtt harcolt a tavaszi hadjárat szerencsétlen kimenetelű ütközeteiben Engennél (május 3-án), Meßkirchnél (május 5-én), és Biberachnál (május 9-én. Amikor Kray táborszernagy az ulmi erődbe kényszerült visszavonulni, a főherceg Ulm környékén harcolt a franciákkal, váltakozó sikerrel. Május 15-én Erbachnál Ferdinánd Károly vezette Kray második támadó oszlopát, 5 zászlóaljat és 14 lovas svadront, Legrand francia tábornok (1762–1815) hadosztálya ellen. A támadás kivetette Legrand csapatait Erbachból és Frauenstettenből, és rendezetlenül menekültek vissza Dischingenig. Ferdinánd Károly volt az egyetlen osztrák parancsnok, aki aznap sikeres akciót hajtott végre. Mivel azonban a többi császári hadoszlop parancsnokaitól, Sztáray Antal (1740–1809) és Lindenau (1752–1817) tábornokoktól nem kapott támogatást, a sikert nem tudta kiaknázni. 1800. május 5-én, az erolzheimi csatában Ferdinánd Károly már egy fő támadó oszlopot vezetett (23 zászlóaljat és 26 lovas svadront), de nem kedvezett neki a hadiszerencse. Kray Pál táborszernagyot ebben az évben leváltották a főhadparancsnoki tisztségből, helyére I. Ferenc császár öccsét, a mindössze 18 éves János főherceget, Ferdinánd Károly unokafivérét nevezték ki. Az 1800–1801. évi téli hadjáratban Ferdinánd Károlyt egy hadosztály (6 zászlóalj és 12 lovas svadron, összesen 8250 ember) parancsnokává nevezték ki, Kienmayer altábornagy (1755–1828) jobb szárnyát képező hadtestben. 1800. december 3-án a hohenlindeni erdei csata során a főherceg Harthofen és Reithofen térségében (ma mindkettő Pastetten község része) régi ulmi ellenfelével, Legrand tábornok hadtestével került szembe. A csata az osztrákok számára katasztrofális vereséget hozott. Ferdinánd Károly hadosztályával a Saalach folyó mentén vonult vissza Salzburgba. Még a város előtt folyó utóvédharcokban is személyesen irányította hadosztályát. A harcmezőn tanúsított vitézségéért és körültekintő csapatparancsnoki ténykedéséért 1801. augusztus 18-án megkapta a Katonai Mária Terézia-rend (MMThO) lovagkeresztjével tüntették ki ... .Kutatható iratanyaga Erdélyi királyi biztosi irathagyatékából (mely az 1833–1840 közti évkört öleli fel) 0,36 iratfolyóméternyi, maradandó értékűnek minősített iratanyaga került az Országos Levéltár, mai nevén Magyar Nemzeti Levéltár Országos Levéltára őrizetébe, ahol az a B 50 és B 51 törzsszámokon kutatható. Az iratanyagból a B 50 törzsszám a főherceg bizalmas jellegű iratait jelöli, ez az iratrész maradt meg épebben, s ez a fontosabb is. Fajsúlyos ügyek iratai találhatók itt – előterjesztések, bizalmas politikai jelentések, titkos útmutatások, jelentések fontosabb politikai eseményekről és személyiségekről, cenzúraügyek és más bizalmas politikai ügyek. A B 51 törzsszám az általános jellegű iratanyag jelzete, de ebből a körből csak az iktatókönyv került a levéltárba, maguknak az iratoknak a holléte nem ismert, vélhetően elvesztek. Az iratokból kitűnik, hogy a főherceg erdélyi feladatai már a kezdettől fogva némileg túlmutattak a szokványos országgyűlési biztosi teendőkön: irodáján minden nagyobb jelentőségű politikai ügy megfordult, ő maga befolyással bírt a legkülönfélébb személyes ügyekre, illetve elvárta a részletes tájékoztatást a törvényhatóságok gyűléseiről is. Erdélyi tevékenysége egyébként nagyjából lezárult az 1837-1838-as országgyűléssel, de még 1839-1841-ben is került hozzá néhány erdélyi ügy (leginkább alkalmaztatási kérések). Megjegyzést érdemel, hogy mivel a főherceg erdélyi megbízatása alatt is megtartotta galíciai kormányzósági tisztségeit, e levéltári iratanyaga is tartalmaz galíciai vonatkozású anyagokat. Az iratok eredetiben külön engedéllyel, másolatban mikrofilmen kutathatók. Kérdés: Kérlek, mutasd be a főherceg katonai pályafutását a napóleoni háborúkban, különös tekintettel a csatákra, amelyekben részt vett, és a hadi sikereire!"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A főherceg a második koalíciós háborúban részt vett több jelentős csatában, köztük Ostrachnál, Stockachnál és Zürichnél. 1800 tavaszán altábornagyi rangot kapott és hadosztályparancsnok lett. Bár a tavaszi hadjárat több ütközete (Engen, Meßkirch, Biberach) szerencsétlen kimenetelű volt, Erbachnál sikeres támadást vezetett Legrand francia tábornok ellen, és az egyetlen osztrák parancsnok volt, aki sikeres akciót hajtott végre. Hohenlindeni csata után a Katonai Mária Terézia-rend lovagkeresztjével tüntették ki vitézségéért és csapatparancsnoki tevékenységéért."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A főherceg a napóleoni háborúkban nem vett részt tényleges harcokban, mivel főként diplomáciai feladatokat látott el. A csatákról csak jelentéseket írt, de sosem harcolt személyesen. Hohenlindeni csata után kitüntették, de nem a harci tevékenységéért, hanem a béketárgyalásokban játszott szerepéért."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "667": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Értékelése A Monroe-doktrínát időnként a be nem avatkozási, avagy az izolacionista politika példájának tekintik. Ezek között kétségtelen az összefüggés, azonban Monroe elnök nyilatkozata nem az Egyesült Államoknak a saját területére történő bezárkózására irányult, hanem bejelentette igényét az egész nyugati félteke, szorosabban véve az amerikai kettős kontinens feletti befolyásra. Mivel Amerikának ebben az időben még távolról sem volt elég ereje, gazdasági lehetősége a globális érdekérvényesítésre, az a tény, hogy megelégedett a nyugati félteke feletti hatalmi törekvésekkel, semmiképp sem tekinthető visszafogottságnak ... .A doktrína meghirdetése James Monroe elnök a később Monroe-elvként elhíresült doktrínát 1823. december 2-án tette közzé a Kongresszushoz intézett üzenetében: Kérdés: Milyen módon különbözött a Monroe-doktrína a tipikus izolacionista politikától?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "Míg a tipikus izolacionista politika egy ország saját területére történő bezárkózást jelentené, a Monroe-doktrína az Amerikai Egyesült Államok igényt jelentett be az egész nyugati félteke, szorosabban véve az amerikai kettős kontinens feletti befolyásra, nem pedig a saját területére való bezárkózásra."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A Monroe-doktrína kizárólag az Amerikai Egyesült Államok belügyeire és saját területére korlátozódott, és nem irányult semmilyen formában más kontinensek vagy országok feletti befolyásra, pontúgy, mint egy tipikus izolacionista politika."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "480": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Története\n1334-ben említik először Karasun néven. Kiemelkedő dombon áll védőfallal övezett unitárius temploma. Román kori szentélye máig fennmaradt, 1495-96-ban bővítették, ekkor épült tornya is. Kazettás mennyezete a 18. század első felében készült. A 18. században emberáldozatot is követelő harc folyt a templom birtoklásáért a katolikusok és az unitáriusok között, végül a katolikusok 1783-ban külön templomot építettek maguknak.\nGörögkatolikus temploma 1880-ban épült, de kevés híve volt.  1910-ben 1006 magyar lakosa volt.\nA trianoni békeszerződésig Udvarhely vármegye Homoródi járásához tartozott.\n1992-ben 526 lakosából 2 román kivételével mind magyarok.\nA falu déli bejáratától jobbra emelkedő Dongó-hegynél sós vízű forrás\nvize tört fel, melyre a 20. század elején fürdőtelep épült, de az 1930-as évekre rombadőlt. 1954-ben felújították, azóta ismét tönkrement ... .Nevének eredete\nNevét onnan kapta, hogy olyan személy birtoka volt, aki karácsonykor született, ezért ezt a nevet viselte. Kérdés: Mi a falu nevének eredete?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A falu nevéet onnan kapta, hogy olyan személy birtoka volt, aki karácsonykor született, ezért ezt a nevet viselte."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A falu neve a 'kara' és 'sun' szavak összetételéből származik, ami 'tiszta vizet' jelent, utalva a környék bőséges forrásaira."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "978": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Területei\nKiskereskedelmi árak\nNagykereskedelmi árak\nInfláció és vásárlóerő indexek\nBérek, reálbérek\nEgyéni és társadalmi fogyasztás\nArany és ezüstárak\nValuta és deviza árfolyamok.\nNemcsak árak elemzése tartozik az ártörténet körébe, hanem a bérek történeti-statisztikai feldolgozása, az inflációtörténet, a pénzérték\n(azaz vásárlóerő) számítás (pl. mennyit érne most egy 1907-es 100 koronás), indexek alakulása (mint pl. létfenntartási index). Az arany- és ezüstárak története automatikusan része az ártörténetnek, hiszen régebben ezek a nemesfémek képezték az gazdasági alapját a forgalmi pénzeknek és az ebből eredő paritásoknak. Ugyancsak része az ártörténetnek a valuták és devizák nemzetközi váltóárfolyamai, azok alakulása.\nCélját és megközelítését tekintve beszélhetünk ... leíró,\nstatisztikai, és\nelemző\nártörténetről. A leíró történet csak közli a régi árakat, árarányokat, és kiemeli az érdekes vagy éppen furcsa árarányokat, például az\nextrém hiperinflációs eseményeket. A statisztikai ártörténet legkülönfélébb arányokat, indexeket, paritásokat, azaz pénzérték viszonyokat számol. Az elemző ártörténet mélyebb gazdaságtörténeti összefüggéseket állapít meg a statisztikai eredmények és a történelmi események összevetésével. Kérdés: Melyek az ártörténet fő területei és módszertani megközelítései, és hogyan kapcsolódnak ezek a gazdaságtörténeti elemzéshez?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "Az ártörténet fő területei a kiskereskedelmi és nagykereskedelmi árak, infláció és vásárlóerő indexek, bérek és reálbérek, egyéni és társadalmi fogyasztás, arany- és ezüstárak, valamint a valuta és deviza árfolyamok. Módszertanilag három megközelítést különböztetünk meg: a leíró, amely bemutatja a régi árakat és árarányokat; a statisztikai, amely különböző arányokat, indexeket és pénzérték viszonyokat számol; valamint az elemző, amely gazdaságtörténeti összefüggéseket állapít meg a statisztikai eredmények és történelmi események összehasonlításával."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Az ártörténet kizárólag a modern inflációs tendenciák elemzésére szolgál, és csak statisztikai módszereket alkalmaz. A fő területei közé tartozik az infláció és a vásárlóerő indexek, de a bérek és reálbérek elemzése már nem része az ártörténetnek. Az arany- és ezüstárak napjainkban már nem játszanak szerepet az ártörténetben, mivel a modern gazdaságban a digitális fizetési eszközök dominálnak."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "665": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A telepítések hazai ellenzői Még Japánban is rengeteg ellenzője és kritikusa akadt a mandzsúriai telepítéseknek. Tudósok és tisztségviselők tiltakoztak ellene, hivatkozva arra, hogy hosszabb távon nem lehet ilyen állapotokat fenntartani. Többen konkrét lépéseket tettek a telepítések és kivándorlás leállítására, mert meg voltak győződve, hogy a kivándorlók nem lesznek képesek sem a mandzsúriai környezeti viszonyokhoz alkalmazkodni, sem a helyi kultúrával összeférni és csakis nehézségek várnának rájuk. Az egyik ilyen kivándorlást ellenző vélemény kissé szarkasztikusan meg is jegyzi: ... Az ötéves kísérleti terv 1932-ben, a mandzsukuói bábállam deklarálását követően a japán kormány nyomban 380 ezer telepest küldött a területre, főleg mezőgazdasági dolgozókat, abban bízva, hogy Mandzsúriát ezáltal Japán élelemkamrájá alakíthatják. A japán migráció ekkor főleg Dongan tartományt (ma Hejlungcsiang része) érintette. Az ún. agrárbevándorlók (japánul nôdzsô imin) a nagy gazdasági világválság áldozatai voltak. Mandzsúriában ők kapták a kínai gazdák elkobzott földjeit. Ugyanis a Kvantung-hadsereg és a Kelet-ázsiai Fejlesztési Társaság (amely a telepítéseket koordinálta akkor) ahelyett, hogy parlagon heverő területek feltörésébe kezdett, inkább kínaiaktól vett el termőföldet, hogy a telepesek munkáját úgymond megkönnyítse. Más kínai gazdákat erőszakkal arra kényszerítettek, hogy áron alul adják el földjüket japán gazdáknak. A telepeseknek adott birtokok 60%-a származott ilyen erőszakos úton történt földszerzésből. A Kvantung-hadsereg földfoglaló egységeit kizsákmányoló ezredeknek nevezték el. Ez rögvest gyűlöletessé tette a bevándorlókat a kínai emberek szemében. A Kvantung-hadsereget később is megvádolták azzal, hogy vegyi fegyverekkel irtja a kínaiakat, csakhogy a japán telepesek rátehessék kezüket azok földjeire (egyébként vegyi- és biológiai fegyverekkel történő háborús bűncselekményeket a Kvantung-hadsereg tényleg követett el Kínában és Mandzsúriában). A kínai lakosság természetesen próbált különféle módon ellenállni a Kvantung-hadsereg földrablásainak, az erőszakos kitelepítéseknek és japán telepesek beáramlásának. Azokat a lázadó területeket, amiket a Kvantung-hadsereg nem tudott egyből megtörni igyekeztek bekeríteni: az új japán kolonista településeket úgy alakították ki, hogy azok gyűrűt vontak az ellenállók lakóhelye köré. Az ilyen területeken azonban állandó összetűzések voltak a kínaiak és a bevándorlók között, amely a japán telepesek életét is megkeserítette. A telepítési program egy ötéves kísérleti terv része volt, amelynek célja a gazdasági válság hatásainak enyhítése, továbbá a vitás földbérleti és földszerzési ügyek elsimítása szűzföldek kínálásával. Japánban a túlnépesedés már a Meidzsi-korban problémákat okozott a mezőgazdasági szektorban. A másik cél, hogy a japán jelenlét fokozásával erősítsék a japán pozíciókat Mandzsúriában és lehetővé váljék a további előretörés Kína belseje felé. Kérdés: Mi volt a japán telepesek földszerezésének egyértelműen erőszakos módja Mandzsúriában?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A Kvantung-hadsereg és a Kelet-ázsiai Fejlesztési Társaság kínai gazdákat erőszakkal arra kényszerítettek, hogy áron alul adják el földjüket japán gazdáknak, mivel a telepeseknek adott birtokok 60%-a származott ilyen erőszakos úton történt földszerzésből."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A japán telepesek először üresen álló, megmunkálatlan területeket kaptak a kormánytól, amelyeket maguknak kellett megművelniük, és csak később vásároltak földet a helyi kínaiaktól fair áron."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "788": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: a gépi technika megújítása rugalmas gyártórendszerek meghonosítása a teljes terméklánc mentén (a termelésirányítástól a kiskereskedelemig) az üzleti folyamatok innovációja a modern kommunikációs eszközök széles körű alkalmazásával a korszerű munkaszervezési módszerek minél szélesebb körű elterjesztése A termékfejlesztés tekintetében szorgalmazni kell: ... A ruhaipar helyzete a 21. század elején A ruhaipari tömeggyártás színvonalának nagyarányú fejlődése a 20. és 21. században mindenekelőtt a gyártóberendezések terén végrehajtott fejlesztéseknek köszönhető. A számítógépes szabászati előkészítés (például szabásminták, felfektetési rajzok, műszaki leírások készítése, részben teljesen automatizálva), a számítógépekkel vezérelt szabász- és varrógépek, az automatizált varró munkahelyek, a korszerű ruhaipari kikészítőgépek (például vasalógépek, gőzölő berendezések), a csomagolástechnikai fejlesztések, a termelés nagyfokú automatizálása, a termelésszervezés információtechnikai eszközökön alapuló megoldásai mind meghonosodtak a ruházati cikkek tömeggyártásában, és igen jelentősen megnövelték a termelékenységet és a minőségi színvonalat, valamint hozzájárultak a divatváltozások megkövetelte gyors termékváltásokhoz is. A 20. század első felében még a mechanikus futószalag mentén történő gyártás hódított, a 2000-es években már sokkal korszerűbb, számítógépes gyártásszervezési rendszereket használnak. A fejlesztés fő irányai a ruhaiparban: Kérdés: Milyen technológiai fejlesztések járultak hozzá a ruhaipar termelékenységének és minőségi színvonalának növeléséhez a 20. és 21. században?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A számítógépes szabászati előkészítés (szabásminták, felfektetési rajzok, műszaki leírások készítése), a számítógépekkel vezérelt szabász- és varrógépek, az automatizált varró munkahelyek, a korszerű ruhaipari kikészítőgépek (vasalógépek, gőzölő berendezések), a csomagolástechnikai fejlesztések, a termelés nagyfokú automatizálása, valamint a termelésszervezés információtechnikai eszközökön alapuló megoldói."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A kézi varrás technikájának finomítása, a szalaggyártás fejlesztése, a kézi szabászat terjedése, és a termelés csökkentése a minőség javítására."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "407": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Sírjának későbbi sorsa Az 1970-es években, amikor az 1945 óta romos állapotú budai királyi palota felújítása elkezdődött, a nádori kriptát a sírokkal együtt ismeretlen (?) személyek több alkalommal, rendszeresen visszajárva, módszeresen megrongálták és kifosztották, nyilvánvalóan az őrszemélyzet tudtával és közreműködésével. A helyreállításba antropológus szakértőket is bevontak. A kripta ma régi állapotában látogatható ... .Megjegyzés A budapesti Herminamező városrészt és a Hermina utat nem őróla, hanem leányáról, az 1842-ben elhunyt Hermina Amália főhercegnőről nevezték el. Kérdés: Mi történt a nádori kriptával a budai királyi palota felújítása idején az 1970-es években?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A kriptát ismeretlen személyek több alkalommal, rendszeresen megrongálták és kifosztották, valószínűleg az őrszemélyzet tudtával és közreműködésével."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A kripta teljesen megsemmisült a második világháborúban, és az 1970-es években már nem is volt helyreállítható, ezért elhagyták."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1435": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A direktóriumok a Magyarországi Tanácsköztársaság előtt (1919 elején) és alatt (1919. március 21. – 1919. augusztus 1.) a helyi tanácsok általában 3 tagból álló vezető testületei, végrehajtó bizottságai voltak. Néhol a tanácsot hívták ekképp. Direktóriuma volt a megyei, járási, községi, városi tanácsoknak, illetve a budapesti központi tanácsnak és a budapesti kerületi tanácsoknak is. Állami irányítószervként léteztek egyéb (író-, sajtó- stb.) direktóriumok is ... .Zenei Direktórium Reinitz Béla szervezte meg, s három tagja volt; Kodály Zoltán, Bartók Béla, Dohnányi Ernő. Egyes források szerint Reinitz is a zenei direktóriumhoz tartozott. Kérdés: Ki volt a Zenei Direktórium tagja a Magyarországi Tanácsköztársaság idején?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A Zenei Direktóriumnak három tagja volt: Kodály Zoltán, Bartók Béla és Dohnányi Ernő. A direktóriumot Reinitz Béla szervezte meg, és egyes források szerint maga Reinitz is a tagjai közé tartozott."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A Zenei Direktóriumot Bartók Béla vezette, és tagjai között csak Kodály Zoltán és Dohnányi Ernő szerepelt. Reinitz Béla nem volt a direktórium tagja, csak a szervezője."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "712": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: D. Dat, Dedit, De, Decimus, Decius, Decretum, Decurio, Deus, Dicit, Dies, Divus, Dominus, Domus, Donum. D.C. Decurio coloniae, Diebus comitialibus, Divus Caesar. D.D. Dea Dia, Decurionum decreto, Dedicavit, Deo dedit, Dono dedit. D.D.D. Datum decreto decurionum, Dono dedit dedicavit. D.E.R. De ea re. DES. Designatus. D.I. Dedit imperator, Diis immortalibus, Diis inferis. D.l.M. Deo invicto Mithrae, Diis inferis Manibus. D.M. Deo Magno, Dignus memoria, Diis Manibus, Dolo malo. DNS DS Dominus Deus. D.P.S. Dedit proprio sumptu, Deo perpetuo sacrum, De pecunia sua ... .K. Kaeso, Caia, Calumnia, Caput, Carus, Castra. K., KAL. e KL. Kalendae. Kérdés: Mi jelentése a D.D.D. rövidítésnek a római feliratokon?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "Datum decreto decurionum, Dono dedit dedicavit."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Dedit Dominus Deo."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1091": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Szereplők\nKim Szuhjon ( 김수현, Kim Soo-hyun) mint I Hvon (이훤, Lee Hwon) (gyermekszínész: Jo Dzsingu ( 여진구, Yeo Jin-goo)): A címbéli \"Nap\", Csoszon trónörökös hercege, majd királya. A tanulni nem akaró, a palotából állandóan szökni próbáló herceg véletlenül találkozik az okos és gyönyörű Jonu (Yeon-u)val, akibe beleszeret. Jonu (Yeon-u) halála után cinikus és rideg király válik belőle, akinek felesülnek kell vennie a számító Jun Bogjong (Yoon Bo-gyeung)ot.\nHan Gain (한가인) mint Ho Jonu (허연우, Heo Yeon-u), később Vol (월, Wol) (gyermekszínész: Kim Judzsong (김유정, Kim Yoo-Jung)): A címbéli \"Hold\", születési nevének jelentése \"ködös eső\". Nemesi család sarja, kiváló tanuló bátyja mellett ő is remek oktatást kapott, okos és bölcs. Véletlenül találkozik a trónörökössel, aki végül koronahercegnővé választja, ám az anyakirályné intrikái miatt átokkal megbetegítik és megölik. A sírból visszatérve Vol (Wol) (Hold) néven sámánként él, nem emlékezve múltjára, mígnem egyszer újra összetalálkozik az immár király I Hvon (Lee Hwon)nal.\nCsong Iru (정일우, Jung Il-woo) mint Jangmjong herceg (양명군, Yang-myeong herceg) (gyermekszínész: I Minho (이민호, Lee Minho)): A \"második Nap\", I Hvon (Lee Hwon) bátyja, féltestvére, akivel apjuk, a király keményen bánik, hogy kisebbik fia trönöröklését védje, ezért a fiú inkább a palotán kívül keresi a boldogulást. Jonu (Yeon-u) bátyjának jó barátja és viszonzatlanul szerelmes a lányba, akinek halála után végtelen szomorúságba esik.\nKim Minszo (김민서, Kim Min-seo) mint Jun Bogjong (윤보경, Yoon Bo-gyeung) (gyermekszínész: Kim Szohjon (김소현, Kim So-hyun)): A tükör, mely Hold szeretne lenni, Bogjong (Bo-gyeong) ambiciózus és törtető, akinek már gyermekkorában megtanította az apja a palotabeli intrikákat. Kívülről kedvesnek és jóságosnak tűnik, azonban egyetlen célja királynévá válni I Hvon (Lee Hwon) oldalán ... .Nézettség\nA kék szín a legalacsonyabb, a piros a legmagasabb nézettséget jelöli. Kérdés: Mi volt a főszereplők közötti kapcsolat, és hogyan alakult a történet a szerelemhalál után?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A főszereplők I Hvon (a Nap) és Ho Jonu (a Hold) voltak, akik beleszerettek egymásba, amikor a trónörökös véletlenül találkozott az okos és gyönyörű Jonuval. Azonban az anyakirályné intrikái miatt Jonut megölték, és a sírból visszatérve Vol (Hold) néven sámánként élt, nem emlékezve múltjára. I Hvon ekkor cinikus és rideg király vált belőle, de amikor újra találkozott Vol-lal, próbálták helyrehozni a kapcsolatukat."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A főszereplők Jangmjong herceg és Jun Bogjong voltak, akik szerelmesek voltak egymásba és megpróbálták elrabolni a trónt I Hvontól. Jonu csak egy mellékszereplő volt, aki a történet elején meghalt, és soha nem tért vissza. I Hvon végül Bogjonghoz ment feleségül, és boldogan élték hátralévő éveiket."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1491": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: \"A döntés Az olasz és a német külügyminiszter beleegyezett Észak-Erdélyt viszacsatolásába ... .További információk Olasz diplomáciai dokumentumok a második bécsi döntésről. Hogyan kaptuk vissza Észak-Erdélyt 1940-ben?; szerk., tan., dokumentumford. Réti György; Aula, Bp., 2000 L. Balogh Béni: A magyar-román kapcsolatok 1939–1940-ben és a második bécsi döntés; Pro-Print, Csíkszereda, 2002 (Múltunk könyvek) L. Balogh Béni: Küzdelem Erdélyért. A magyar-román viszony és a kisebbségi kérdés 1940–1944 között; Akadémiai, Bp., 2013 Jósa Piroska: Virágszőnyeg a váradi utcaköveken. Visszatekintés a bécsi döntés nagyváradi eseményeire a korabeli sajtó, néhány dokumentum és irodalmi mű, valamint a szemtanúk emlékezése tükrében; Erdélyi Magyar Ifjak, Nagyvárad, 2016 Csíkszereda és Kézdivásárhely hazatérése, 1940; szerk. Babucs Zoltán; Tortoma, Barót, 2017\" Kérdés: Melyek voltak azok a nemzetközi tényezők, amelyek Észak-Erdély 1940-es visszacsatolásához vezettek a második bécsi döntés kapcsán?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "Észak-Erdély visszacsatolásában az olasz és német külügyminiszterek egyezménye játszotta a döntő szerepet. A második bécsi döntés keretében Olaszország és Németország, mint a térségben befolyásos nagyhatalmak, döntöttek Észak-Erdély Magyarországhoz csatolásáról, amely 1940-ben valósult meg."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Észak-Erdély visszacsatolását a brit és francia külügyminiszterek közvetítése érte el, akik a trianoni békeszerződés revíziójára törekedtek. A nyugati hatalmak közvetítésével jött létre megállapodás Románia és Magyarország között, amely Észak-Erdély visszacsatolásáról szólt 1940-ben."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "536": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Metón-ciklus A Metón-ciklust i. e. 432-ben Metón athéni csillagász fedezte fel a holdhónapok és a napévek hossza között. Felismerte, hogy a Hold fényváltozásai 19 év múltán ugyanarra a napra esnek. Eszerint ... Aranyszám és epakta Aranyszámnak (latinul aureus numerusnak, rövidítve AN) nevezzük azt az 1 és 19 közötti számot, mely megmutatja, hogy az adott év a Meton-ciklus hányadik éve. Amennyiben az évszámot a nyugati időszámítás szerint (azaz az Anno Domini, rövidítve AD éra szerint) számoljuk, akkor Kérdés: Mi az Aranyszám és hogyan kapcsolódik a Meton-ciklushoz?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "Aranyszám (latinul aureus numerus, rövidítve AN) az 1 és 19 közötti szám, amely megmutatja, hogy az adott év a Meton-ciklus hányadik éve. A Meton-ciklus egy 19 éves periódus, amelyet Metón athéni csillagász i. e. 432-ben fedezett fel, és amely szerint a Hold fényváltozásai 19 év múlva ugyanarra a napra esnek."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Aranyszám a napok és holdhónapok arányának kifejezése, amelyet az ókorban használtak a naptár kialakításához. A Meton-ciklus egy 12 éves periódus, amely szerint a Hold fázisai 12 évenként ismétlődnek, és ez segített meghatározni a holdújévi ünnepek időpontját."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 1.0
+            }
+        ]
+    },
+    "1194": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: Az energiafejlesztés határai Bármely energiaforrás emberi felhasználása a mennyiségi növekedés határaiba ütközik. A 21. század elején ennek nézőpontja globális dimenziókat nyert. Az elsődleges fosszilis energiaforrások, mint a kőolaj és földgáz, a kimerülés felé tartanak, ami bekövetkezhet egy generáción belül (ld. Hubbert-csúcs hipotézis). Az energiafejlesztéshez szorosan kötődnek az energiafelhasználás környezeti hatásaival, mint például az éghajlatváltozással kapcsolatos aggodalmak. Az energiafelhasználás területei részei a sokat vitatott fenntartható fejlődés problematikájának. Technikailag az energiafejlesztés bizonyos energiamennyiség bevitelével, a vonatkozó hatásfokkal, ill. körfolyamat esetén a kapott teljesítménnyel jellemezhető. Az átalakítás veszteségekkel jár, melyek általában hulladékhőben jelentkeznek. Az energia hasznos része a kívánt cél, munka elérése után nagyrészt hővé alakul, ami szintén a környezetnek adódik át ... .Érvek ellene Bizonyos mennyiségű vulkáni kibocsátáson kívül a hidrogén tiszta formában nem létezik a természetben. Könnyűsége miatt a Föld gravitációja nem elegendő ahhoz, hogy az atmoszférában visszatartsa a jelenlegi hőmérsékletek mellett, mivel a szökési sebességnél nagyobb sebességre tehet szert (a hélium ugyancsak elszökik). Vannak aggodalmak, miszerint egy hidrogénalapú gazdaság negatív hatással lenne a Föld hidrogénháztartására, mivel folyamatosan hidrogén jutna az atmoszférába, onnan pedig a világűrbe. Jelenleg nagyon bonyolult jelentős energiabefektetés nélkül hidrogént nyerni. A víz felbontása hidrogénre és oxigénre elektrolízissel sok energiát használ. A számítások szerint 1,4 J elektromos energia kell 1 J-nak megfelelő energiát tartalmazó hidrogén előállításához. Fosszilis tüzelőanyagokat használva energiaforrásként a vízbontáshoz, a keletkező légszennyezés teljesen lerontja az üzemanyagcella pozitív hatását. Sokkal hatékonyabb a fosszilis tüzelőanyagok közvetlen használata. Jelenleg hiányzik az infrastruktúra és a szükséges villamos hálózat az üzemanyagcellás járművek széles körű ellátásához. Óriási befektetést igényelne a hidrogénüzemek megépítése, és minden jármű motorjának és üzemanyagtankjának lecserélése. A hidrogént nehéz kezelni, raktározni és szállítani. Nehéz, ormótlan tartályokat igényel a gázként, és összetett szigetelő edényeket mélyhűtött folyadékként való tárolása. Ha mérsékelt hőmérsékleten és nyomáson van rá szükség, akkor a tároláshoz metálhidrid abszorberre lehet szükség. A szállítás szintén bonyolult, mert minden tartályból könnyedén szivárog. Mindezek miatt a hidrogénhajtás nagyon drága. A jelenlegi üzemanyagcellák drágák, mivel platina katalizátor van bennük. Kérdés: Milyen problémákkal és korlátozásokkal kell szembenézni a hidrogénenergia széleskörű alkalmazása során, a forrás szöveg alapján?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "A hidrogénenergia széleskörű alkalmazásával több jelentős probléma is kapcsolatos. Egyrészt a hidrogén nem létezik tiszta formában a természetben, előállítása pedig sok energiát igényel (1,4 J elektromos energiát kell befektetni 1 J hidrogén előállításához). Fosszilis tüzelőanyagok használata esetén a légszennyezés megakadályozza a pozitív hatásokat. Az infrastruktúra hiánya és a villamos hálózat hiánya további akadályt jelent. A hidrogén tárolása és szállítása is nehézségeket okoz, mivel nehéz, ormótlan tartályokat igényel gázként, vagy összetett szigetelő edényeket folyadékként. Emellett a jelenlegi üzemanyagcellák is drágák, mivel platina katalizátort tartalmaznak."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "A hidrgénenergia széleskörű alkalmazása a forrás szöveg szerint nem jelent komoly problémát, mivel a Föld gravitációja elegendő a hidrogén megtartásához az atmoszférában, a hidrogény előállítása pedig napenergiával és megújuló forrásokkal történhet, ami olcsó és környezetbarát megoldást jelent. Az infrastruktúra problémái pedig már megoldódtak és a hidrogén tárolása is egyszerű a modern technológiának köszönhetően."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    },
+    "1200": {
+        "context": {
+            "prompt": [
+                {
+                    "role": "user",
+                    "content": "Forrás szöveg: A korrupciós bűncselekmények köre A korrupciós bűncselekmények a Btk. XXVII. fejezetében találhatóak. E bűncselekményi körbe tartozik: ... 2010-es évek 2014-ben a 175 országot rangsoroló indexben 54 pontot kapott, és ezzel az ország akkor még a 47. helyen állt. Az elkövetkező években a helyzet tovább romlott, a Transparency International jelentése szerint 69. helyre került, ezzel az Európai Unió országai közül a legkorruptabb országok között foglal helyet. 2014 az USA hat magyar tisztviselőnek tiltotta meg a beutazást az Egyesült Államokba, korrupciós vádak miatt. Kérdés: Mi történt 2014-ben hat magyar tisztviselővel az Egyesült Államok részéről korrupciós vádak miatt?"
+                }
+            ],
+            "chosen": [
+                {
+                    "role": "assistant",
+                    "content": "Hat magyar tisztviselőt tiltottak meg a beutazást az Egyesült Államokba korrupciós vádak miatt."
+                }
+            ],
+            "rejected": [
+                {
+                    "role": "assistant",
+                    "content": "Az Egyesült Államok pénzbüntetést szabott ki hat magyar tisztviselőre korrupciós vádak miatt."
+                }
+            ]
+        },
+        "score": [
+            {
+                "chosen_score": 5.0,
+                "rejected_score": 0.0
+            }
+        ]
+    }
+}
